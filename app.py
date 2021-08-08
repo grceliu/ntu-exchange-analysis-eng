@@ -1,3 +1,4 @@
+from dash_html_components.A import A
 import pandas as pd
 import plotly.express as px  # (version 4.7.0)
 import plotly.graph_objs as go
@@ -8,8 +9,11 @@ from dash.dependencies import Input, Output
 
 app = dash.Dash(
     __name__,
-    meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,"},
-                {"name": "keywords", "content": "台灣大學, 校級, 交換, 統計, 人數"}]
+    meta_tags=[
+        {"name": "viewport",
+        "content": "width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,"
+        },
+    ]
 )
 app.title = "NTU exchange stats"
 server = app.server
@@ -88,7 +92,7 @@ app.layout = html.Div(
                             className="stats-card",
                             children=[
                                 html.H2(id='num_countries'),
-                                html.P("Destination Countries")
+                                html.P("Top Destination Countries")
                             ]
                         ),
                         html.Div(
@@ -100,6 +104,46 @@ app.layout = html.Div(
                         ),
                     ]
                 ),
+                # html.Div(
+                #     className="pane pane-table",
+                #     children=dash_table.DataTable(
+                #                             id="table_school",
+                #                             page_size=400,
+                #                             columns=[
+                #                                 {'id': 'university', 'name': 'Top Destination Universities'},
+                #                                 {'id': 'count', 'name': 'Count'},
+                #                             ],
+                #                             style_header={
+                #                                 'textAlign': 'center',
+                #                                 'fontWeight': 'bold',
+                #                             },
+                #                             style_cell={
+                #                                 'textAlign': 'center',
+                #                                 'fontFamily': 'Verdana',
+                #                                 'paddingRight': '0.5rem',
+                #                             },
+                #                             style_cell_conditional=[{
+                #                                 'if': {'column_id': 'count'},
+                #                                 'textAlign': 'right'
+                #                             }],
+                #                             style_data={
+                #                                 'whiteSpace': 'normal',
+                #                                 'height': 'auto',
+                #                             },
+                #                             style_data_conditional=[{
+                #                                 "if": {"state": "selected"},
+                #                                 "backgroundColor": "inherit !important",
+                #                                 "border": "inherit !important",
+                #                             }],
+                #                             style_table={
+                #                                 'padding-top': '.4rem',
+                #                                 'padding-left': '0rem',
+                #                                 'padding-right': '.4rem',
+                #                                 'height': '250',
+                #                                 'width': '600',
+                #                             }
+                #                         ),
+                # ),
                 html.Div(
                     className="pane",
                     children=dcc.Graph(
@@ -131,6 +175,28 @@ app.layout = html.Div(
                                 )
                 ),
             ]
+        ),
+        html.Footer(
+            children=[
+                html.Span(
+                    "Project Link: "
+                ),
+                html.A(
+                    className='footer-item',
+                    href='https://github.com/grceliu/ntu-exchange-analysis-eng',
+                    target='_blank',
+                    children=[
+                        html.Img(
+                            src='assets/GitHub-Mark-120px-plus.png',
+                            height='15',
+                            width='15',
+                        ),
+                    ]
+                ),
+                html.Span(
+                    "    | © 2021 Grace Liu",
+                ),
+            ]
         )
 ])
 # ------------------------------------------------------------------------------
@@ -143,6 +209,7 @@ app.layout = html.Div(
      Output(component_id='hist_year', component_property='figure'),
      Output(component_id='hist_country', component_property='figure'),
      Output(component_id='hist_school', component_property='figure'),
+     # Output(component_id='table_school', component_property='data'),
      ],
     [Input(component_id='slct_year', component_property='value'),
      Input(component_id='slct_department', component_property='value')]
@@ -170,17 +237,29 @@ def update_graph(slct_year, slct_department):
     fig_year.update_xaxes(fixedrange=True)
     fig_year.update_yaxes(fixedrange=True)
 
-    fig_country = px.histogram(dff, x='country', title="Destination Countries".format(slct_department), color_discrete_sequence=[MAIN_COLOR])
+    country_dff = dff.groupby('country').count().sort_values('university').iloc[-10:,1].reset_index()
+    country_dff.columns = ['country', 'count']
+    fig_country = px.bar(country_dff, x='count', y='country', orientation='h', title="Top 10 Destination Countries".format(slct_department), color_discrete_sequence=[MAIN_COLOR])
+    fig_country.update_traces(
+        textposition='inside',
+        hovertemplate = "country=%{y}<br>count=%{x}"
+    )
     fig_country.update_layout(title=DEFAULT_GRAPH_TITLE_POSITION, margin=DEFAULT_GRAPH_MARGIN)
-    fig_country.update_xaxes(tickangle=315, categoryorder="total descending", fixedrange=True)
-    fig_country.update_yaxes(fixedrange=True)
+    fig_country.update_yaxes(tickfont=dict(size=10, family='Verdana'), fixedrange=True)
+    fig_country.update_xaxes(fixedrange=True)
 
-    fig_school = px.histogram(dff, x='university', title="Destination Universities".format(slct_department), color_discrete_sequence=[MAIN_COLOR])
+    school_dff = dff.groupby('university').count().sort_values('country').iloc[-10:,1].reset_index()
+    school_dff.columns = ['university', 'count']
+    fig_school = px.bar(school_dff, x='count', y='university', orientation='h', title="Top 10 Destination Universities".format(slct_department), color_discrete_sequence=[MAIN_COLOR])
+    fig_school.update_traces(
+        textposition='inside',
+        hovertemplate = "university=%{y}<br>count=%{x}"
+    )
     fig_school.update_layout(title=DEFAULT_GRAPH_TITLE_POSITION, margin=DEFAULT_GRAPH_MARGIN)
-    fig_school.update_xaxes(tickangle=315, categoryorder="total descending", fixedrange=True)
-    fig_school.update_yaxes(fixedrange=True)
+    fig_school.update_yaxes(tickfont=dict(size=10, family='Verdana'), fixedrange=True)
+    fig_school.update_xaxes(fixedrange=True)
 
-    return one_sem_pct, num_students, num_countries, num_schools, fig_year, fig_country, fig_school
+    return one_sem_pct, num_students, num_countries, num_schools, fig_year, fig_country, fig_school#, school_df
 
 if __name__ == '__main__':
     app.run_server(debug=True)

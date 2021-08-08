@@ -16,7 +16,13 @@ body{
 
 p {
   font-size: 1rem;
+  text-align: center;
 }
+
+footer {
+  margin: 0 auto;
+  text-align: center;
+} 
 
 .range-slider {
   width: 100%;
@@ -59,10 +65,10 @@ p {
 }
 
 .stats-grid {
-    display: grid;
-    justify-content: center;
-    gap: 1rem 1rem;
-    grid-template-columns: 1fr 1fr; /* 2 columns */
+  display: grid;
+  justify-content: center;
+  gap: 1rem 1rem;
+  grid-template-columns: 1fr 1fr; /* 2 columns */
 }
 
 /* slider color formatting */

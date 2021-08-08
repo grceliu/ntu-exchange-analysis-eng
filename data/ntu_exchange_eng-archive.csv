@@ -8,7 +8,7 @@ school_year,num_of_sems,country,university,department
 2021,2,Netherlands,VU University Amsterdam,Department of Drama and Theatre
 2021,2,Netherlands,Radboud University Nijmegen,Department of Political Science
 2021,2,Japan,Aoyama Gakuin University,Department of Political Science
-2021,2,France,Institut d’Études Politiques de Paris,Department of Political Science
+2021,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2021,2,Portugal,University of Porto,Department of Political Science
 2021,2,Norway,University of Oslo,Department of Economics
 2021,2,Australia,The Australian National University,Department of Forestry and Resource Conservation
@@ -22,31 +22,31 @@ school_year,num_of_sems,country,university,department
 2021,2,Australia,The University of Queensland,Department of Foreign Languages and Literatures
 2021,1,Italy,Catholic University of the Sacred Heart,Department of Foreign Languages and Literatures
 2021,2,US,University of California,Department of Physics
-2021,2,US,University of Maryland,Department of Physics
+2021,2,US,University of Maryland (UMD),Department of Physics
 2021,2,Japan,University of Tokyo,Department of Physics
 2021,2,Sweden,Umeå University,Department of Agricultural Chemistry
 2021,1,Sweden,Lund University,Department of Political Science
 2021,2,Finland,University of Helsinki,Department of Economics
 2021,1,Sweden,Uppsala University,Department of Sociology
-2021,2,France,Institut d’Études Politiques de Paris,Department of Political Science
+2021,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2021,2,South Korea,Ewha Womans University,Department of Social Work
 2021,1,Netherlands,Maastricht University,Department of Clinical Laboratory Sciences and Medical Biotechnology
-2021,1,US,The California State University,Department of Computer Science and Information Engineering
+2021,1,US,The California State University (CSU),Department of Computer Science and Information Engineering
 2021,2,Japan,University of Tsukuba,Department of Agricultural Economics
 2021,1,Sweden,Linköping University,Department of Agricultural Economics
 2021,2,Netherlands,University of Groningen,Department of Bio-Industry Communication and Development
 2021,2,US,Temple University,Department of Accounting
-2021,1,US,The California State University,Department of Accounting
-2021,2,France,Institut d’Études Politiques de Paris,Department of Accounting
+2021,1,US,The California State University (CSU),Department of Accounting
+2021,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Accounting
 2021,1,US,Temple University,Department of Accounting
 2021,2,France,Lille Catholic University,Department of Accounting
-2021,1,US,The California State University,Department of Finance
+2021,1,US,The California State University (CSU),Department of Finance
 2021,2,Switzerland,University of Zurich,Department of Finance
 2021,2,Japan,Nagasaki University,Department of Finance
 2021,1,Netherlands,Maastricht University,Department of Finance
 2021,2,Japan,Keio University,Department of International Business
-2021,2,US,University of Connecticut,Department of International Business
-2021,1,US,The California State University,Department of International Business
+2021,2,US,University of Connecticut (UConn),Department of International Business
+2021,1,US,The California State University (CSU),Department of International Business
 2021,2,US,University of California,Department of International Business
 2021,1,Hungary,Corvinus University of Budapest,Department of Public Health
 2021,2,Germany,Technical University of Munich,Department of Computer Science and Information Engineering
@@ -59,7 +59,7 @@ school_year,num_of_sems,country,university,department
 2021,2,Germany,University of Tubingen,Department of Foreign Languages and Literatures
 2021,2,Denmark,University of Copenhagen,Department of Anthropology
 2021,2,Germany,University of Tubingen,Department of Political Science
-2021,2,France,Institut d’Études Politiques de Paris,Department of Political Science
+2021,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2021,2,US,University of California,Department of Economics
 2021,2,Singapore,Singapore Management University,Department of Accounting
 2021,1,Netherlands,Maastricht University,Department of Finance
@@ -71,10 +71,10 @@ school_year,num_of_sems,country,university,department
 2021,1,Singapore,Nanyang Technological University,Department of Civil Engineering
 2021,2,Netherlands,VU University Amsterdam,Department of Library and Information Science
 2021,2,Netherlands,Utrecht University,Department of Geography
-2021,1,US,The University of Utah,Department of International Business
+2021,1,US,The University of Utah (U of U),Department of International Business
 2021,1,Switzerland,University of Lausanne,Department of Foreign Languages and Literatures
 2021,1,Japan,Meiji University,Department of Japanese Language and Literature
-2021,1,US,The California State University,Department of International Business
+2021,1,US,The California State University (CSU),Department of International Business
 2021,2,Japan,University of the Ryukyus,Department of Japanese Language and Literature
 2021,2,Austria,University of Vienna,Department of Political Science
 2021,2,Japan,Kyoto University,Department of Japanese Language and Literature
@@ -93,7 +93,7 @@ school_year,num_of_sems,country,university,department
 2020,1,Latvia,University of Latvia,Department of Finance
 2020,1,Germany,Humboldt-University Berlin,Department of Bio-Industry Communication and Development
 2020,1,Spain,University of Barcelona,Department of Chinese Literature
-2020,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2020,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2020,1,Spain,Autonomous University of Barcelona,Department of Foreign Languages and Literatures
 2020,1,Italy,University of Bologna,Department of Foreign Languages and Literatures
 2020,1,Spain,Autonomous University of Madrid,Department of Foreign Languages and Literatures
@@ -142,7 +142,7 @@ school_year,num_of_sems,country,university,department
 2020,1,China,Shanghai Jiao Tong University,Department of Horticultural Science
 2020,1,South Korea,Korea University,Department of Horticultural Science
 2020,1,US,The University of Scranton,Department of Bio-Industry Communication and Development
-2020,1,US,The University of North Carolina at Chapel Hill,Department of Bio-industrial Mechatronics Engineering
+2020,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Bio-industrial Mechatronics Engineering
 2020,1,Japan,Hitotsubashi University,Department of Bio-industrial Mechatronics Engineering
 2020,1,Germany,University of Hamburg,Department of Business Administration
 2020,1,Switzerland,University of St. Gallen,Department of Business Administration
@@ -174,7 +174,7 @@ school_year,num_of_sems,country,university,department
 2020,1,Germany,Technical University of Munich,Department of Chemical Engineering
 2020,1,Germany,Friedrich-Alexander - University Erlangen-Nurnberg,Department of Chemical Engineering
 2020,1,Australia,The University of Melbourne,Department of Accounting
-2020,1,US,The University of North Carolina at Chapel Hill,Department of Animal Science and Technology
+2020,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Animal Science and Technology
 2020,1,Poland,University of Warsaw,Department of Business Administration
 2020,1,China,Peking University,Department of Business Administration
 2020,1,Switzerland,University of St. Gallen,Department of Finance
@@ -193,7 +193,7 @@ school_year,num_of_sems,country,university,department
 2020,1,Netherlands,Maastricht University,Department of Finance
 2020,2,Slovenia,University of Ljubljana,Department of Information Management
 2020,1,China,Nankai University,Department of International Business
-2020,1,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2020,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2020,1,South Korea,Ewha Womans University,Department of Economics
 2020,1,South Korea,Hanyang University,Department of Drama and Theatre
 2020,2,South Korea,Sungkyunkwan University,Department of Foreign Languages and Literatures
@@ -236,28 +236,28 @@ school_year,num_of_sems,country,university,department
 2019,2,Singapore,National University of Singapore,Department of Chinese Literature
 2019,2,Sweden,Linköping University,Department of Sociology
 2019,1,Finland,University of Helsinki,Department of Sociology
-2019,1,Turkey,Middle East Technical University,Department of Entomology
+2019,1,Turkey,Middle East Technical University (METU),Department of Entomology
 2019,1,Czechia,Charles University,Department of Foreign Languages and Literatures
 2019,2,Germany,University of Bonn,Department of Law
 2019,1,Netherlands,Maastricht University,Department of Psychology
-2019,1,US,North Carolina State University,Department of Veterinary Medicine
+2019,1,US,North Carolina State University (NC State),Department of Veterinary Medicine
 2019,1,Malaysia,Universiti Tunku Abdul Rahman,Department of Drama and Theatre
 2019,1,Malaysia,Universiti Sains Malaysia,Department of Mathematics
 2019,1,Germany,University of Mannheim,Department of Political Science
-2019,1,Turkey,Middle East Technical University,Department of Social Work
+2019,1,Turkey,Middle East Technical University (METU),Department of Social Work
 2019,1,Sweden,Umeå University,Department of Medicine
 2019,1,China,Beihang University,Department of Medicine
-2019,2,US,University of South Carolina,Department of Veterinary Medicine
+2019,2,US,University of South Carolina (UofSC),Department of Veterinary Medicine
 2019,2,Germany,Friedrich-Alexander - University Erlangen-Nurnberg,Department of Entomology
 2019,2,Austria,University of Vienna,Department of Chinese Literature
 2019,1,Japan,Keio University,Department of Chinese Literature
 2019,1,China,Peking University,Department of Chinese Literature
 2019,1,Germany,Ruhr-University Bochum,Department of Foreign Languages and Literatures
-2019,1,France,Institut d’Études Politiques de Paris,Department of Finance
+2019,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Finance
 2019,1,Germany,University of Tubingen,Department of Foreign Languages and Literatures
 2019,1,Spain,Pompeu Fabra University,Department of Foreign Languages and Literatures
 2019,1,Canada,University of Toronto,Department of Foreign Languages and Literatures
-2019,1,US,The University of North Carolina at Chapel Hill,Department of Foreign Languages and Literatures
+2019,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Foreign Languages and Literatures
 2019,1,Spain,Pompeu Fabra University,Department of Foreign Languages and Literatures
 2019,1,Austria,Johannes Kepler University of Linz,Department of Foreign Languages and Literatures
 2019,1,Australia,Griffith University,Department of Foreign Languages and Literatures
@@ -267,15 +267,15 @@ school_year,num_of_sems,country,university,department
 2019,1,France,University of Rennes 1,Department of Foreign Languages and Literatures
 2019,1,Italy,Catholic University of the Sacred Heart,Department of Foreign Languages and Literatures
 2019,1,Germany,University of Freiburg,Department of Foreign Languages and Literatures
-2019,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
-2019,1,US,The University of North Carolina at Chapel Hill,Department of Foreign Languages and Literatures
+2019,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
+2019,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Foreign Languages and Literatures
 2019,1,Germany,University of Mannheim,Department of Foreign Languages and Literatures
 2019,1,Netherlands,Maastricht University,Department of Foreign Languages and Literatures
 2019,1,Portugal,University of Porto,Department of Foreign Languages and Literatures
 2019,1,China,Renmin University of China,Department of History
 2019,1,Turkey,Koç University,Department of Economics
 2019,1,Spain,University of Barcelona,Department of Political Science
-2019,1,France,Institut d’Études Politiques de Paris,Department of Philosophy
+2019,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Philosophy
 2019,1,Italy,Catholic University of the Sacred Heart,Department of Philosophy
 2019,1,China,Nanjing University,Department of Anthropology
 2019,1,China,Nanjing University,Department of Anthropology
@@ -297,7 +297,7 @@ school_year,num_of_sems,country,university,department
 2019,1,Czechia,Masaryk University,Department of Mathematics
 2019,2,Japan,Tohoku University,Department of Mathematics
 2019,1,South Korea,Seoul National University,Department of Chemistry
-2019,2,France,Sorbonne University,Department of Chemistry
+2019,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Chemistry
 2019,1,Japan,Nagasaki University,Department of Geosciences
 2019,1,Australia,The University of New South Wales,Department of Geosciences
 2019,1,Netherlands,Maastricht University,Department of Psychology
@@ -307,12 +307,12 @@ school_year,num_of_sems,country,university,department
 2019,1,Germany,Ulm University,Department of Geography
 2019,1,Sweden,Uppsala University,Department of Geography
 2019,2,Japan,Tokyo Gakugei University,Department of Geography
-2019,1,US,The California State University,Department of Political Science
+2019,1,US,The California State University (CSU),Department of Political Science
 2019,1,US,The University of Scranton,Department of Economics
 2019,1,Spain,University of Barcelona,Department of Political Science
 2019,1,Spain,Complutense University of Madrid,Department of Political Science
 2019,1,Canada,Simon Fraser University (SFU),Department of Political Science
-2019,1,US,The University of Utah,Department of Accounting
+2019,1,US,The University of Utah (U of U),Department of Accounting
 2019,1,Germany,University of Mannheim,Department of Political Science
 2019,2,Japan,University of Tokyo,Department of Economics
 2019,1,France,University Jean Moulin - Lyon 3,Department of Economics
@@ -349,11 +349,11 @@ school_year,num_of_sems,country,university,department
 2019,1,China,Zhejiang Univeristy,Department of Forestry and Resource Conservation
 2019,1,Netherlands,Leiden University,Department of Psychology
 2019,1,Japan,Kyoto University,Department of Forestry and Resource Conservation
-2019,2,Canada,University of British Columbia,Department of Forestry and Resource Conservation
+2019,2,Canada,The University of British Columbia (UBC),Department of Forestry and Resource Conservation
 2019,1,New Zealand,University of Canterbury,Department of Forestry and Resource Conservation
 2019,2,Japan,University of the Ryukyus,Department of Forestry and Resource Conservation
 2019,2,South Korea,Yonsei University,Department of Economics
-2019,2,US,University of Hawai‘i at Mānoa,Department of Veterinary Medicine
+2019,2,US,University of Hawai‘i at Mānoa (UHM),Department of Veterinary Medicine
 2019,2,Hong Kong,The Chinese University of Hong Kong,Department of Bio-Industry Communication and Development
 2019,2,US,University of California,Department of Bio-Industry Communication and Development
 2019,1,China,Harbin Institute of Technology,Department of Bio-Industry Communication and Development
@@ -378,7 +378,7 @@ school_year,num_of_sems,country,university,department
 2019,1,Japan,Nihon University,Department of Life Science
 2019,2,US,University of California,Department of Life Science
 2019,2,Canada,Université Laval,Department of Biochemical Science and Technology
-2019,2,France,Institut d’Études Politiques de Paris,Department of Chinese Literature
+2019,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Chinese Literature
 2019,1,Spain,Autonomous University of Madrid,Department of Chinese Literature
 2019,1,China,Beijing Normal University,Department of Chinese Literature
 2019,1,Germany,University of Mannheim,Department of Foreign Languages and Literatures
@@ -386,7 +386,7 @@ school_year,num_of_sems,country,university,department
 2019,2,UK,University of Manchester,Department of Foreign Languages and Literatures
 2019,1,Spain,Autonomous University of Madrid,Department of Foreign Languages and Literatures
 2019,1,Canada,University of Ottawa,Department of Foreign Languages and Literatures
-2019,1,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2019,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2019,1,UK,University of Manchester,Department of Foreign Languages and Literatures
 2019,2,Turkey,Bilkent University,Department of Foreign Languages and Literatures
 2019,1,Germany,University of Tubingen,Department of Foreign Languages and Literatures
@@ -429,10 +429,10 @@ school_year,num_of_sems,country,university,department
 2019,1,China,Peking University,Department of Political Science
 2019,1,Poland,University of Warsaw,Department of Political Science
 2019,1,Canada,University of Ottawa,Department of Political Science
-2019,1,France,Institut d’Études Politiques de Paris,Department of Political Science
+2019,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2019,1,South Korea,Hanyang University,Department of Accounting
 2019,1,China,Fudan University,Department of Political Science
-2019,1,France,Institut d’Études Politiques de Paris,Department of Economics
+2019,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Economics
 2019,2,Germany,University of Hamburg,Department of Economics
 2019,1,Singapore,Singapore Management University,Department of Economics
 2019,1,Hong Kong,City University of Hong Kong,Department of Economics
@@ -455,7 +455,7 @@ school_year,num_of_sems,country,university,department
 2019,1,Singapore,National University of Singapore,Department of Materials Science and Engineering
 2019,1,Germany,Friedrich-Alexander - University Erlangen-Nurnberg,Department of Agronomy
 2019,1,Denmark,University of Copenhagen,Department of Agricultural Economics
-2019,2,US,University of South Carolina,Department of Horticultural Science
+2019,2,US,University of South Carolina (UofSC),Department of Horticultural Science
 2019,2,US,University of Washington,Department of Bio-Industry Communication and Development
 2019,2,France,Lille Catholic University,Department of Bio-Industry Communication and Development
 2019,2,US,University of California,Department of Economics
@@ -487,13 +487,13 @@ school_year,num_of_sems,country,university,department
 2019,1,Netherlands,Maastricht University,Department of International Business
 2019,1,Netherlands,Leiden University,Department of International Business
 2019,1,UK,The University of Nottingham,Department of International Business
-2019,2,France,Institut d’Études Politiques de Paris,Department of International Business
+2019,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2019,1,US,University of California,Department of International Business
 2019,2,Australia,Macquarie University,Department of Public Health
 2019,1,Finland,University of Helsinki,Department of Public Health
 2019,2,Japan,Hokkaido University,Department of Computer Science and Information Engineering
 2019,1,Singapore,National University of Singapore,Department of Computer Science and Information Engineering
-2019,1,US,The University of Utah,Department of Computer Science and Information Engineering
+2019,1,US,The University of Utah (U of U),Department of Computer Science and Information Engineering
 2019,2,Italy,University of Bologna,Department of Computer Science and Information Engineering
 2019,1,Singapore,Singapore University of  Technology and Design,Department of Computer Science and Information Engineering
 2019,1,Singapore,National University of Singapore,Department of Computer Science and Information Engineering
@@ -517,7 +517,7 @@ school_year,num_of_sems,country,university,department
 2019,2,US,University of Washington,Department of Finance
 2019,1,Hong Kong,The University of Hong Kong,Department of Finance
 2019,1,US,The University of Scranton,Department of Finance
-2019,1,US,North Carolina State University,Department of Finance
+2019,1,US,North Carolina State University (NC State),Department of Finance
 2019,1,Singapore,Nanyang Technological University,Department of Finance
 2019,1,South Korea,Ewha Womans University,Department of Finance
 2019,2,US,University of California,Department of Finance
@@ -534,16 +534,16 @@ school_year,num_of_sems,country,university,department
 2019,2,France,University of Bordeaux,Department of Bio-Industry Communication and Development
 2019,2,Japan,University of Tsukuba,Department of Civil Engineering
 2019,1,Sweden,Linköping University,Department of Sociology
-2019,1,US,University of Connecticut,Department of Business Administration
+2019,1,US,University of Connecticut (UConn),Department of Business Administration
 2019,2,Japan,University of Tokyo,Department of Computer Science and Information Engineering
 2019,1,Japan,Hitotsubashi University,Department of Social Work
 2019,1,US,Temple University,Department of Accounting
-2019,2,Canada,University of British Columbia,Department of Computer Science and Information Engineering
+2019,2,Canada,The University of British Columbia (UBC),Department of Computer Science and Information Engineering
 2019,1,Germany,University of Konstanz,Department of Electrical Engineering
 2019,2,Canada,Queen's University,Department of Finance
 2019,1,Singapore,Singapore University of  Technology and Design,Department of Economics
 2019,1,Germany,Humboldt-University Berlin,Department of Foreign Languages and Literatures
-2019,1,US,The University of North Carolina at Chapel Hill,Department of Chinese Literature
+2019,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Chinese Literature
 2019,1,Japan,Kyoto University,Department of Law
 2019,1,Sweden,Umeå University,Department of Political Science
 2019,1,China,Peking University,Department of Chinese Literature
@@ -579,16 +579,16 @@ school_year,num_of_sems,country,university,department
 2019,2,Japan,University of Tokyo,Department of Japanese Language and Literature
 2019,1,Netherlands,Maastricht University,Department of Psychology
 2019,1,US,University of California,Department of Finance
-2019,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
+2019,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
 2019,1,Switzerland,University of St. Gallen,Department of Finance
 2018,2,Netherlands,Maastricht University,Department of Psychology
 2018,1,China,Fudan University,Department of Bio-Industry Communication and Development
-2018,1,South Korea,Korea Advanced Institute of Science and Technology,Department of Mechanical Engineering
+2018,1,South Korea,Korea Advanced Institute of Science and Technology (KAIST),Department of Mechanical Engineering
 2018,2,Sweden,Lund University,Department of Library and Information Science
 2018,1,Japan,Hitotsubashi University,Department of Political Science
 2018,2,Japan,Nagoya University of Foreign Studies,Department of Japanese Language and Literature
 2018,2,Japan,Ritsumeikan University,Department of Japanese Language and Literature
-2018,2,US,The California State University,Department of Medicine
+2018,2,US,The California State University (CSU),Department of Medicine
 2018,1,Japan,Okayama University,Department of Dentistry
 2018,2,Japan,Nihon University,Department of Japanese Language and Literature
 2018,1,Australia,Macquarie University,Department of Economics
@@ -615,7 +615,7 @@ school_year,num_of_sems,country,university,department
 2018,2,Canada,Université de Montréal,Department of Foreign Languages and Literatures
 2018,1,Spain,Complutense University of Madrid,Department of Foreign Languages and Literatures
 2018,1,Poland,University of Warsaw,Department of Foreign Languages and Literatures
-2018,1,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2018,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2018,2,Netherlands,Leiden University,Department of History
 2018,2,Japan,Hokkaido University,Department of History
 2018,2,Czechia,Masaryk University,Department of History
@@ -639,7 +639,7 @@ school_year,num_of_sems,country,university,department
 2018,1,France,Lille Catholic University,Department of Drama and Theatre
 2018,1,Canada,Simon Fraser University (SFU),Department of Physics
 2018,1,Singapore,Singapore Management University,Department of Geosciences
-2018,1,US,The University of North Carolina at Chapel Hill,Department of Geosciences
+2018,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Geosciences
 2018,1,Singapore,Nanyang Technological University,Department of Psychology
 2018,2,Japan,Nagasaki University,Department of Psychology
 2018,2,Sweden,Linköping University,Department of Psychology
@@ -656,7 +656,7 @@ school_year,num_of_sems,country,university,department
 2018,1,Sweden,Lund University,Department of Political Science
 2018,1,Czechia,Masaryk University,Department of Political Science
 2018,1,China,Peking University,Department of Political Science
-2018,1,France,Institut d’Études Politiques de Paris,Department of Political Science
+2018,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2018,1,France,Lille Catholic University,Department of Political Science
 2018,2,South Korea,Korea University,Department of Political Science
 2018,2,Spain,Autonomous University of Barcelona,Department of Political Science
@@ -677,8 +677,8 @@ school_year,num_of_sems,country,university,department
 2018,1,Japan,Tokyo Institute of Technology,Department of Mechanical Engineering
 2018,2,Germany,University of Stuttgart,Department of Mechanical Engineering
 2018,1,Germany,Technical University of Munich,Department of Mechanical Engineering
-2018,2,US,University of South Carolina,Department of Life Science
-2018,1,Canada,Université du Québec à Montréal,Department of Bioenvironmental Systems Engineering
+2018,2,US,University of South Carolina (UofSC),Department of Life Science
+2018,1,Canada,Université du Québec à Montréal (UQAM),Department of Bioenvironmental Systems Engineering
 2018,2,Latvia,University of Latvia,Department of Forestry and Resource Conservation
 2018,2,US,University of California,Department of Animal Science and Technology
 2018,2,Japan,Akita International University,Department of Agricultural Economics
@@ -686,7 +686,7 @@ school_year,num_of_sems,country,university,department
 2018,1,China,Peking University,Department of Economics
 2018,1,Iceland,University of Iceland,Department of Agricultural Economics
 2018,2,Germany,Technical University of Darmstadt,Department of Horticultural Science
-2018,2,Turkey,Middle East Technical University,Department of Bio-Industry Communication and Development
+2018,2,Turkey,Middle East Technical University (METU),Department of Bio-Industry Communication and Development
 2018,1,China,Xiamen University,Department of Bio-Industry Communication and Development
 2018,1,China,China Agricultural University,Department of Bio-Industry Communication and Development
 2018,1,China,Beijing Normal University,Department of Bio-Industry Communication and Development
@@ -704,7 +704,7 @@ school_year,num_of_sems,country,university,department
 2018,2,Japan,Sophia University,Department of Accounting
 2018,1,Sweden,Lund University,Department of Accounting
 2018,1,Germany,University of Tubingen,Department of Finance
-2018,2,Canada,University of British Columbia,Department of Economics
+2018,2,Canada,The University of British Columbia (UBC),Department of Economics
 2018,2,France,Lille Catholic University,Department of International Business
 2018,1,Hong Kong,The Chinese University of Hong Kong,Department of International Business
 2018,1,Singapore,Singapore University of  Technology and Design,Department of Information Management
@@ -715,7 +715,7 @@ school_year,num_of_sems,country,university,department
 2018,2,Germany,Technical University of Munich,Department of Computer Science and Information Engineering
 2018,1,Hong Kong,Lingnan University,Department of Psychology
 2018,1,Canada,University of Toronto,Department of Law
-2018,1,South Korea,Korea Advanced Institute of Science and Technology,Department of Life Science
+2018,1,South Korea,Korea Advanced Institute of Science and Technology (KAIST),Department of Life Science
 2018,1,Hong Kong,The Hong Kong Polytechnic University,Department of Biochemical Science and Technology
 2018,2,UK,University of Sussex,Department of Chinese Literature
 2018,2,Japan,University of Tsukuba,Department of Foreign Languages and Literatures
@@ -757,7 +757,7 @@ school_year,num_of_sems,country,university,department
 2018,2,Japan,University of Tsukuba,Department of Japanese Language and Literature
 2018,2,US,University of California,Department of Agricultural Economics
 2018,1,China,Peking University,Department of Psychology
-2018,1,US,Hawai‘i Pacific University,Department of Psychology
+2018,1,US,Hawai‘i Pacific University (HPU),Department of Psychology
 2018,1,Sweden,Linköping University,Department of Mechanical Engineering
 2018,2,Spain,Autonomous University of Madrid,Department of Political Science
 2018,1,Sweden,Lund University,Department of Political Science
@@ -766,7 +766,7 @@ school_year,num_of_sems,country,university,department
 2018,2,South Korea,Korea University,Department of Political Science
 2018,1,Hong Kong,The Hang Seng University of Hong Kong,Department of Political Science
 2018,2,Singapore,Nanyang Technological University,Department of Economics
-2018,1,US,University of Illinois at Chicago,Department of Economics
+2018,1,US,University of Illinois at Chicago (UIC),Department of Economics
 2018,1,China,Shanghai Jiao Tong University,Department of Accounting
 2018,1,Netherlands,Maastricht University,Department of Economics
 2018,1,Netherlands,Maastricht University,Department of Economics
@@ -790,7 +790,7 @@ school_year,num_of_sems,country,university,department
 2018,1,Hong Kong,City University of Hong Kong,Department of Mechanical Engineering
 2018,1,Hong Kong,The Hong Kong Polytechnic University,Department of Chemical Engineering
 2018,1,South Korea,Seoul National University,Department of Materials Science and Engineering
-2018,1,France,University of Technology of Troyes,Department of Agricultural Economics
+2018,1,France,University of Technology of Troyes (UTT),Department of Agricultural Economics
 2018,1,Netherlands,Utrecht University,Department of Psychology
 2018,1,US,The University of Oklahoma,Department of Agricultural Economics
 2018,2,Japan,Hokkaido University,Department of Agricultural Economics
@@ -802,7 +802,7 @@ school_year,num_of_sems,country,university,department
 2018,1,China,Shanghai Jiao Tong University,Department of Bio-Industry Communication and Development
 2018,2,Japan,Tohoku University,Department of Entomology
 2018,1,Brazil,Pontifícia Universidade Católica do Rio de Janeiro,Department of Business Administration
-2018,2,France,Institut d’Études Politiques de Paris,Department of Business Administration
+2018,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Business Administration
 2018,1,China,Wuhan University,Department of Business Administration
 2018,2,Germany,University of Tubingen,Department of Accounting
 2018,1,China,Peking University,Department of Finance
@@ -811,7 +811,7 @@ school_year,num_of_sems,country,university,department
 2018,1,US,University of California,Department of Finance
 2018,1,France,University of Paris-Saclay,Department of Finance
 2018,2,South Korea,Sungkyunkwan University,Department of International Business
-2018,2,France,Institut d’Études Politiques de Paris,Department of International Business
+2018,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2018,1,Switzerland,University of Lausanne,Department of International Business
 2018,1,Netherlands,Maastricht University,Department of International Business
 2018,2,US,George Mason University,Department of International Business
@@ -840,11 +840,11 @@ school_year,num_of_sems,country,university,department
 2018,1,Singapore,Nanyang Technological University,Department of Geography
 2018,2,Germany,Technical University of Berlin,Department of Atmospheric Sciences
 2018,1,China,Fudan University,Department of Political Science
-2018,1,France,Institut d’Études Politiques de Paris,Department of Political Science
+2018,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2018,1,South Korea,Yonsei University,Department of Business Administration
 2018,1,Canada,University of Victoria,Department of Political Science
 2018,2,Australia,The University of New South Wales,Department of Economics
-2018,1,US,University of South Carolina,Department of Economics
+2018,1,US,University of South Carolina (UofSC),Department of Economics
 2018,1,China,Fudan University,Department of Horticultural Science
 2018,1,China,Tsinghua University,Department of Bio-Industry Communication and Development
 2018,2,Netherlands,Radboud University Nijmegen,Department of Business Administration
@@ -875,9 +875,9 @@ school_year,num_of_sems,country,university,department
 2018,1,China,Wuhan University,Department of Information Management
 2018,1,China,Peking University,Department of Computer Science and Information Engineering
 2018,2,Japan,University of Tsukuba,Department of Accounting
-2018,2,US,University of Connecticut,Department of Chinese Literature
+2018,2,US,University of Connecticut (UConn),Department of Chinese Literature
 2018,1,Singapore,National University of Singapore,Department of Foreign Languages and Literatures
-2018,1,US,The University of North Carolina at Chapel Hill,Department of Foreign Languages and Literatures
+2018,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Foreign Languages and Literatures
 2018,1,China,Peking University,Department of Chinese Literature
 2018,1,US,Temple University,Department of Public Health
 2018,1,Japan,Tokyo Institute of Technology,Department of Biochemical Science and Technology
@@ -892,7 +892,7 @@ school_year,num_of_sems,country,university,department
 2018,1,Brazil,Pontifícia Universidade Católica do Rio de Janeiro,Department of Drama and Theatre
 2018,1,Japan,Hitotsubashi University,Department of Japanese Language and Literature
 2018,1,China,Nankai University,Department of History
-2018,1,US,University of South Carolina,Department of Accounting
+2018,1,US,University of South Carolina (UofSC),Department of Accounting
 2018,1,Singapore,Nanyang Technological University,Department of Electrical Engineering
 2018,2,Germany,Technical University of Munich,Department of Mechanical Engineering
 2018,2,US,State University of New York at Albany,Department of Atmospheric Sciences
@@ -900,7 +900,7 @@ school_year,num_of_sems,country,university,department
 2018,2,Singapore,Singapore Management University,Department of Psychology
 2018,2,Japan,Tokyo University of Foreign Studies,Department of Japanese Language and Literature
 2018,2,Japan,University of Tsukuba,Department of Finance
-2018,2,Canada,University of British Columbia,Department of Economics
+2018,2,Canada,The University of British Columbia (UBC),Department of Economics
 2018,1,Singapore,Nanyang Technological University,Department of Bio-Industry Communication and Development
 2018,1,Canada,University of Waterloo,Department of Foreign Languages and Literatures
 2018,2,UK,University of Manchester,Department of Foreign Languages and Literatures
@@ -915,7 +915,7 @@ school_year,num_of_sems,country,university,department
 2018,2,UK,University of Manchester,Department of Foreign Languages and Literatures
 2018,1,Netherlands,Utrecht University,Department of Drama and Theatre
 2018,2,Japan,Kyoto University,Department of Japanese Language and Literature
-2018,2,France,Institut d’Études Politiques de Paris,Department of Law
+2018,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Law
 2018,2,Japan,Doshisha University,Department of Japanese Language and Literature
 2018,2,Japan,University of Tsukuba,Department of Psychology
 2018,1,Hong Kong,City University of Hong Kong,Department of Philosophy
@@ -950,17 +950,17 @@ school_year,num_of_sems,country,university,department
 2017,1,Germany,University of Hamburg,Department of Foreign Languages and Literatures
 2017,1,Thailand,Thammasat University,Department of Foreign Languages and Literatures
 2017,2,Japan,Ochanomizu University,Department of History
-2017,1,US,University of Hawai‘i at Mānoa,Department of Anthropology
+2017,1,US,University of Hawai‘i at Mānoa (UHM),Department of Anthropology
 2017,1,China,Peking University,Department of Anthropology
 2017,1,China,Sun Yat-sen University,Department of Anthropology
 2017,2,Sweden,Uppsala University,Department of Anthropology
-2017,1,US,University of Maryland,Department of Library and Information Science
+2017,1,US,University of Maryland (UMD),Department of Library and Information Science
 2017,1,China,Peking University,Department of Economics
 2017,2,Australia,Monash University,Department of Library and Information Science
 2017,2,Japan,Kanagawa University,Department of Library and Information Science
 2017,1,Japan,Doshisha University,Department of Information Management
 2017,2,Japan,Tokyo Gakugei University,Department of Japanese Language and Literature
-2017,1,Canada,University of British Columbia,Department of Accounting
+2017,1,Canada,The University of British Columbia (UBC),Department of Accounting
 2017,2,Japan,Tokyo University of Foreign Studies,Department of Japanese Language and Literature
 2017,2,Japan,Hiroshima University,Department of Japanese Language and Literature
 2017,2,Japan,Hokkaido University,Department of Japanese Language and Literature
@@ -972,7 +972,7 @@ school_year,num_of_sems,country,university,department
 2017,1,Sweden,Linköping University,Department of Geosciences
 2017,1,Canada,University of Prince Edward Island,Department of Psychology
 2017,1,Hong Kong,The University of Hong Kong,Department of Psychology
-2017,1,US,University of Hawai‘i at Mānoa,Department of Psychology
+2017,1,US,University of Hawai‘i at Mānoa (UHM),Department of Psychology
 2017,1,Netherlands,Maastricht University,Department of Psychology
 2017,1,US,University of Oregon,Department of Psychology
 2017,1,Hong Kong,The Chinese University of Hong Kong,Department of Geography
@@ -989,11 +989,11 @@ school_year,num_of_sems,country,university,department
 2017,2,Japan,University of Tsukuba,Department of Economics
 2017,1,China,Zhejiang Univeristy,Department of Economics
 2017,1,UK,University of Kent,Department of Sociology
-2017,2,France,Institut d’Études Politiques de Paris,Department of Business Administration
+2017,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Business Administration
 2017,2,South Korea,Ewha Womans University,Department of Social Work
 2017,1,Brazil,Pontifícia Universidade Católica do Rio de Janeiro,Department of Social Work
 2017,1,China,Nanjing University,Department of Social Work
-2017,1,Canada,Université du Québec à Montréal,Department of Nursing
+2017,1,Canada,Université du Québec à Montréal (UQAM),Department of Nursing
 2017,1,China,Peking University,Department of Nursing
 2017,1,Thailand,Thammasat University,Department of Civil Engineering
 2017,2,Japan,Akita International University,Department of Civil Engineering
@@ -1024,10 +1024,10 @@ school_year,num_of_sems,country,university,department
 2017,1,China,Shanghai Jiao Tong University,Department of Business Administration
 2017,2,Singapore,Singapore University of  Technology and Design,Department of Business Administration
 2017,1,Germany,Technical University of Munich,Department of Mechanical Engineering
-2017,2,South Korea,Korea Advanced Institute of Science and Technology,Department of Accounting
+2017,2,South Korea,Korea Advanced Institute of Science and Technology (KAIST),Department of Accounting
 2017,2,Japan,Hitotsubashi University,Department of Finance
 2017,1,US,University of Washington,Department of Finance
-2017,2,South Korea,Korea Advanced Institute of Science and Technology,Department of Finance
+2017,2,South Korea,Korea Advanced Institute of Science and Technology (KAIST),Department of Finance
 2017,1,China,Shanghai Jiao Tong University,Department of International Business
 2017,2,Japan,Aoyama Gakuin University,Department of International Business
 2017,2,Japan,Ritsumeikan University,Department of Computer Science and Information Engineering
@@ -1044,7 +1044,7 @@ school_year,num_of_sems,country,university,department
 2017,1,China,Peking University,Department of Chinese Literature
 2017,1,France,Lille Catholic University,Department of Foreign Languages and Literatures
 2017,2,Japan,Keio University,Department of Foreign Languages and Literatures
-2017,1,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2017,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2017,2,Japan,Okayama University,Department of Foreign Languages and Literatures
 2017,2,US,University of California,Department of Foreign Languages and Literatures
 2017,1,Canada,Simon Fraser University (SFU),Department of Foreign Languages and Literatures
@@ -1075,9 +1075,9 @@ school_year,num_of_sems,country,university,department
 2017,2,Japan,Sophia University,Department of Japanese Language and Literature
 2017,2,Japan,Soka University,Department of Japanese Language and Literature
 2017,2,Germany,Friedrich-Alexander - University Erlangen-Nurnberg,Department of Drama and Theatre
-2017,2,Canada,University of British Columbia,Department of Geosciences
-2017,2,US,The University of North Carolina at Chapel Hill,Department of Psychology
-2017,1,US,University of Illinois at Chicago,Department of Psychology
+2017,2,Canada,The University of British Columbia (UBC),Department of Geosciences
+2017,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Psychology
+2017,1,US,University of Illinois at Chicago (UIC),Department of Psychology
 2017,1,China,Southeast University,Department of Geography
 2017,1,Iceland,University of Iceland,Department of Atmospheric Sciences
 2017,2,Spain,Autonomous University of Barcelona,Department of Political Science
@@ -1090,12 +1090,12 @@ school_year,num_of_sems,country,university,department
 2017,1,Netherlands,Maastricht University,Department of Finance
 2017,2,Hong Kong,City University of Hong Kong,Department of Political Science
 2017,2,South Korea,Seoul National University,Department of Political Science
-2017,2,US,University of Maryland,Department of Political Science
+2017,2,US,University of Maryland (UMD),Department of Political Science
 2017,1,Germany,Ulm University,Department of Political Science
 2017,1,Denmark,University of Copenhagen,Department of Political Science
 2017,2,Hong Kong,The Hong Kong Polytechnic University,Department of Economics
 2017,1,South Korea,Ewha Womans University,Department of Economics
-2017,1,US,University of Maryland,Department of Economics
+2017,1,US,University of Maryland (UMD),Department of Economics
 2017,1,China,Peking University,Department of Economics
 2017,1,China,Fudan University,Department of Economics
 2017,2,Hong Kong,The University of Hong Kong,Department of Economics
@@ -1121,7 +1121,7 @@ school_year,num_of_sems,country,university,department
 2017,1,Australia,The University of Queensland,Department of Animal Science and Technology
 2017,1,Switzerland,University of St. Gallen,Department of Finance
 2017,1,Singapore,Nanyang Technological University,Department of Agricultural Economics
-2017,2,US,The California State University,Department of Horticultural Science
+2017,2,US,The California State University (CSU),Department of Horticultural Science
 2017,1,Singapore,Singapore Management University,Department of Bio-Industry Communication and Development
 2017,2,South Korea,Sungkyunkwan University,Department of Bio-Industry Communication and Development
 2017,2,Italy,Catholic University of the Sacred Heart,Department of Bio-Industry Communication and Development
@@ -1134,14 +1134,14 @@ school_year,num_of_sems,country,university,department
 2017,1,China,Fudan University,Department of Bio-Industry Communication and Development
 2017,2,Japan,Tokyo Gakugei University,Department of Bio-Industry Communication and Development
 2017,1,Switzerland,University of Bern,Department of Business Administration
-2017,2,US,University of Maryland,Department of Business Administration
+2017,2,US,University of Maryland (UMD),Department of Business Administration
 2017,1,Sweden,Stockholm University,Department of Business Administration
 2017,1,Singapore,Singapore Management University,Department of Business Administration
 2017,1,US,The University of Oklahoma,Department of Business Administration
 2017,1,China,Tianjin University,Department of Accounting
 2017,1,China,Renmin University of China,Department of Accounting
 2017,2,Japan,Kyoto University,Department of Accounting
-2017,1,US,University of Illinois at Chicago,Department of Accounting
+2017,1,US,University of Illinois at Chicago (UIC),Department of Accounting
 2017,1,China,Wuhan University,Department of Accounting
 2017,2,UK,University of Kent,Department of Finance
 2017,1,South Korea,Ewha Womans University,Department of Finance
@@ -1157,9 +1157,9 @@ school_year,num_of_sems,country,university,department
 2017,1,UK,University of Manchester,Department of International Business
 2017,2,Latvia,University of Latvia,Department of International Business
 2017,2,Japan,Tokyo Gakugei University,Department of International Business
-2017,1,US,The California State University,Department of International Business
+2017,1,US,The California State University (CSU),Department of International Business
 2017,1,Netherlands,Leiden University,Department of International Business
-2017,1,France,Institut d’Études Politiques de Paris,Department of International Business
+2017,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2017,1,France,Lille Catholic University,Department of International Business
 2017,1,Singapore,Nanyang Technological University,Department of Information Management
 2017,1,Hong Kong,The Chinese University of Hong Kong,Department of Accounting
@@ -1175,7 +1175,7 @@ school_year,num_of_sems,country,university,department
 2017,1,China,Beijing Normal University,Department of Chinese Literature
 2017,1,New Zealand,The University of Auckland,Department of Foreign Languages and Literatures
 2017,1,China,Guizhou University,Department of Foreign Languages and Literatures
-2017,2,France,University of Technology of Troyes,Department of History
+2017,2,France,University of Technology of Troyes (UTT),Department of History
 2017,2,Netherlands,Maastricht University,Department of History
 2017,1,China,Wuhan University,Department of Philosophy
 2017,2,South Korea,Yonsei University,Department of Philosophy
@@ -1186,10 +1186,10 @@ school_year,num_of_sems,country,university,department
 2017,2,US,University of California,Department of Physics
 2017,2,US,University of California,Department of Physics
 2017,2,Hong Kong,The Hong Kong Polytechnic University,Department of Geosciences
-2017,2,US,The California State University,Department of Geography
+2017,2,US,The California State University (CSU),Department of Geography
 2017,1,Singapore,Nanyang Technological University,Department of Political Science
 2017,2,Japan,Hitotsubashi University,Department of Political Science
-2017,2,France,Institut d’Études Politiques de Paris,Department of Political Science
+2017,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2017,1,China,Peking University,Department of Political Science
 2017,1,South Korea,Ewha Womans University,Department of Political Science
 2017,2,Canada,University of Toronto,Department of Economics
@@ -1199,12 +1199,12 @@ school_year,num_of_sems,country,university,department
 2017,2,UK,University of Sussex,Department of Sociology
 2017,2,Singapore,National University of Singapore,Department of Social Work
 2017,2,Japan,Nagasaki University,Department of Mechanical Engineering
-2017,2,US,The California State University,Department of Materials Science and Engineering
+2017,2,US,The California State University (CSU),Department of Materials Science and Engineering
 2017,1,Hong Kong,The Chinese University of Hong Kong,Department of Bio-industrial Mechatronics Engineering
 2017,2,Italy,Catholic University of the Sacred Heart,Department of Bio-Industry Communication and Development
 2017,2,Finland,University of Helsinki,Department of Bio-Industry Communication and Development
 2017,2,Canada,University of Waterloo,Department of Bio-industrial Mechatronics Engineering
-2017,2,US,University of Connecticut,Department of Business Administration
+2017,2,US,University of Connecticut (UConn),Department of Business Administration
 2017,1,China,Shanghai Jiao Tong University,Department of Business Administration
 2017,2,US,Arizona State University,Department of Business Administration
 2017,2,Germany,Technical University of Munich,Department of Business Administration
@@ -1220,7 +1220,7 @@ school_year,num_of_sems,country,university,department
 2017,1,US,University of Washington,Department of Public Health
 2017,1,Italy,University of Bologna,Department of Law
 2017,2,Canada,University of Victoria,Department of Medicine
-2017,2,Canada,University of British Columbia,Department of Chinese Literature
+2017,2,Canada,The University of British Columbia (UBC),Department of Chinese Literature
 2017,1,China,Peking University,Department of Chinese Literature
 2017,1,China,Huazhong University of Science and Technology,Department of Business Administration
 2017,2,Japan,Nihon University,Department of Drama and Theatre
@@ -1231,21 +1231,21 @@ school_year,num_of_sems,country,university,department
 2017,1,China,Renmin University of China,Department of History
 2017,2,Germany,Ruhr-University Bochum,Department of Foreign Languages and Literatures
 2017,1,Norway,University of Oslo,Department of Law
-2017,2,US,University of Connecticut,Department of Accounting
-2017,2,US,University of Maryland,Department of Geosciences
+2017,2,US,University of Connecticut (UConn),Department of Accounting
+2017,2,US,University of Maryland (UMD),Department of Geosciences
 2017,2,Spain,Autonomous University of Barcelona,Department of Foreign Languages and Literatures
-2017,1,Canada,University of British Columbia,Department of Psychology
+2017,1,Canada,The University of British Columbia (UBC),Department of Psychology
 2017,1,Canada,Simon Fraser University (SFU),Department of Electrical Engineering
-2017,1,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2017,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2017,2,US,Arizona State University,Department of Finance
 2017,1,Brazil,Pontifícia Universidade Católica do Rio de Janeiro,Department of Entomology
-2017,1,US,The California State University,Department of Chinese Literature
+2017,1,US,The California State University (CSU),Department of Chinese Literature
 2017,1,Spain,Complutense University of Madrid,Department of Foreign Languages and Literatures
 2017,2,Austria,Johannes Kepler University of Linz,Department of International Business
 2017,1,China,Peking University,Department of Political Science
-2017,1,France,Institut d’Études Politiques de Paris,Department of Finance
+2017,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Finance
 2017,1,Germany,University of Hamburg,Department of Political Science
-2017,1,US,Hawai‘i Pacific University,Department of Drama and Theatre
+2017,1,US,Hawai‘i Pacific University (HPU),Department of Drama and Theatre
 2017,2,US,Temple University,Department of Economics
 2017,1,Hong Kong,City University of Hong Kong,Department of Bioenvironmental Systems Engineering
 2017,1,Hong Kong,Lingnan University,Department of Drama and Theatre
@@ -1262,9 +1262,9 @@ school_year,num_of_sems,country,university,department
 2017,2,Australia,The Australian National University,Department of International Business
 2017,1,Japan,University of Tokyo,Department of Sociology
 2017,1,Japan,University of Tokyo,Department of Political Science
-2017,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
-2017,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
-2017,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
+2017,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
+2017,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
+2017,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
 2016,2,France,University of Paris Ouest - Nanterre La Défense,Department of Foreign Languages and Literatures
 2016,2,Japan,Nihon University,Department of Bio-Industry Communication and Development
 2016,1,China,Lanzhou University,Department of Anthropology
@@ -1274,9 +1274,9 @@ school_year,num_of_sems,country,university,department
 2016,2,Hong Kong,The Chinese University of Hong Kong,Department of Chinese Literature
 2016,2,Japan,Sophia University,Department of Foreign Languages and Literatures
 2016,2,Austria,University of Vienna,Department of Foreign Languages and Literatures
-2016,1,US,University of Maryland,Department of Foreign Languages and Literatures
+2016,1,US,University of Maryland (UMD),Department of Foreign Languages and Literatures
 2016,2,UK,University of Southampton,Department of Foreign Languages and Literatures
-2016,1,US,The University of North Carolina at Chapel Hill,Department of Foreign Languages and Literatures
+2016,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Foreign Languages and Literatures
 2016,2,Australia,The Australian National University,Department of Foreign Languages and Literatures
 2016,1,China,Nanjing University,Department of Foreign Languages and Literatures
 2016,2,US,University of Georgia,Department of Foreign Languages and Literatures
@@ -1288,17 +1288,17 @@ school_year,num_of_sems,country,university,department
 2016,1,Finland,University of Helsinki,Department of Foreign Languages and Literatures
 2016,2,Malaysia,Universiti Sains Malaysia,Department of Foreign Languages and Literatures
 2016,1,Germany,University of Stuttgart,Department of History
-2016,2,Canada,University of British Columbia,Department of History
+2016,2,Canada,The University of British Columbia (UBC),Department of History
 2016,2,Japan,University of the Ryukyus,Department of History
 2016,2,Sweden,Uppsala University,Department of History
 2016,1,South Korea,Ewha Womans University,Department of History
 2016,2,France,University of Rennes 1,Department of Philosophy
-2016,2,US,The University of North Carolina at Chapel Hill,Department of Philosophy
+2016,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Philosophy
 2016,1,Canada,University of Prince Edward Island,Department of Anthropology
 2016,1,China,Peking University,Department of History
 2016,1,China,Peking University,Department of Anthropology
-2016,2,Canada,University of British Columbia,Department of Anthropology
-2016,1,US,University of Hawai‘i at Mānoa,Department of Anthropology
+2016,2,Canada,The University of British Columbia (UBC),Department of Anthropology
+2016,1,US,University of Hawai‘i at Mānoa (UHM),Department of Anthropology
 2016,1,UK,University of Southampton,Department of Library and Information Science
 2016,1,Germany,Karlsruhe Institute of Technology,Department of Library and Information Science
 2016,2,Japan,Kyoto University,Department of Japanese Language and Literature
@@ -1311,7 +1311,7 @@ school_year,num_of_sems,country,university,department
 2016,1,South Korea,Seoul National University,Department of Chemistry
 2016,2,Austria,Johannes Kepler University of Linz,Department of Chemistry
 2016,1,Germany,RWTH Aachen University,Department of Electrical Engineering
-2016,2,France,Sorbonne University,Department of Chemistry
+2016,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Chemistry
 2016,2,Germany,University of Stuttgart,Department of Chemistry
 2016,1,Iceland,University of Iceland,Department of Geosciences
 2016,1,Hong Kong,The University of Hong Kong,Department of Economics
@@ -1350,14 +1350,14 @@ school_year,num_of_sems,country,university,department
 2016,2,Hong Kong,The Chinese University of Hong Kong,Department of Bio-Industry Communication and Development
 2016,2,Czechia,Masaryk University,Department of Clinical Laboratory Sciences and Medical Biotechnology
 2016,1,Germany,Ruhr-University Bochum,Department of Civil Engineering
-2016,1,Canada,University of British Columbia,Department of Chemical Engineering
+2016,1,Canada,The University of British Columbia (UBC),Department of Chemical Engineering
 2016,1,Canada,University of Waterloo,Department of Civil Engineering
 2016,2,Japan,Nagoya University of Foreign Studies,Department of Mechanical Engineering
 2016,2,Japan,Osaka University,Department of Mechanical Engineering
 2016,1,US,Arizona State University,Department of Chemical Engineering
 2016,2,Singapore,Nanyang Technological University,Department of Chemical Engineering
 2016,1,Germany,Ulm University,Department of Chemical Engineering
-2016,2,France,Sorbonne University,Department of Chemical Engineering
+2016,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Chemical Engineering
 2016,1,Austria,Johannes Kepler University of Linz,Department of Materials Science and Engineering
 2016,1,South Korea,Pusan National University,Department of Bioenvironmental Systems Engineering
 2016,1,Poland,University of Warsaw,Department of Forestry and Resource Conservation
@@ -1375,7 +1375,7 @@ school_year,num_of_sems,country,university,department
 2016,2,Japan,Meiji University,Department of Bio-Industry Communication and Development
 2016,1,China,Southeast University,Department of Bio-Industry Communication and Development
 2016,1,Italy,Catholic University of the Sacred Heart,Department of Bio-Industry Communication and Development
-2016,1,US,University of Maryland,Department of Bio-Industry Communication and Development
+2016,1,US,University of Maryland (UMD),Department of Bio-Industry Communication and Development
 2016,2,Germany,Ruhr-University Bochum,Department of Bio-industrial Mechatronics Engineering
 2016,1,China,Shanghai Jiao Tong University,Department of Entomology
 2016,1,Hong Kong,The University of Hong Kong,Department of Agricultural Chemistry
@@ -1389,7 +1389,7 @@ school_year,num_of_sems,country,university,department
 2016,1,Hong Kong,The University of Hong Kong,Department of Finance
 2016,1,Germany,Ruhr-University Bochum,Department of Finance
 2016,1,China,China Agricultural University,Department of International Business
-2016,2,France,Institut d’Études Politiques de Paris,Department of International Business
+2016,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2016,1,China,Shanghai Jiao Tong University,Department of International Business
 2016,2,Hong Kong,The Chinese University of Hong Kong,Department of Information Management
 2016,2,US,Temple University,Department of Information Management
@@ -1400,7 +1400,7 @@ school_year,num_of_sems,country,university,department
 2016,1,Finland,University of Helsinki,Department of Biochemical Science and Technology
 2016,1,France,Sorbonne Paris North University,Department of Biochemical Science and Technology
 2016,1,Germany,Ruhr-University Bochum,Department of Bio-Industry Communication and Development
-2016,1,US,North Carolina State University,Department of Chinese Literature
+2016,1,US,North Carolina State University (NC State),Department of Chinese Literature
 2016,1,China,Sun Yat-sen University,Department of Chinese Literature
 2016,2,Hong Kong,City University of Hong Kong,Department of Foreign Languages and Literatures
 2016,1,Netherlands,Leiden University,Department of Foreign Languages and Literatures
@@ -1418,7 +1418,7 @@ school_year,num_of_sems,country,university,department
 2016,1,China,Sun Yat-sen University,Department of History
 2016,1,China,Beijing Normal University,Department of History
 2016,1,China,Peking University,Department of History
-2016,2,France,Institut d’Études Politiques de Paris,Department of Philosophy
+2016,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Philosophy
 2016,1,China,Huazhong University of Science and Technology,Department of Philosophy
 2016,1,Japan,Yokohama National University,Department of Anthropology
 2016,1,US,State University of New York at Albany,Department of Political Science
@@ -1447,15 +1447,15 @@ school_year,num_of_sems,country,university,department
 2016,2,Japan,Osaka University,Department of Japanese Language and Literature
 2016,2,Japan,Tokyo Gakugei University,Department of Japanese Language and Literature
 2016,2,Japan,Kobe University,Department of Japanese Language and Literature
-2016,2,Canada,University of British Columbia,Department of Physics
-2016,2,Canada,University of British Columbia,Department of Physics
+2016,2,Canada,The University of British Columbia (UBC),Department of Physics
+2016,2,Canada,The University of British Columbia (UBC),Department of Physics
 2016,2,Norway,University of Oslo,Department of Chemistry
 2016,1,Germany,RWTH Aachen University,Department of Psychology
 2016,2,South Korea,Seoul National University,Department of Geography
 2016,2,South Korea,Hanyang University,Department of Drama and Theatre
 2016,2,France,University of Paris Ouest - Nanterre La Défense,Department of Political Science
 2016,1,South Korea,Korea University,Department of Political Science
-2016,2,US,University of Maryland,Department of Political Science
+2016,2,US,University of Maryland (UMD),Department of Political Science
 2016,1,Hong Kong,City University of Hong Kong,Department of Political Science
 2016,1,Netherlands,Utrecht University,Department of Accounting
 2016,1,China,Shanghai Jiao Tong University,Department of Political Science
@@ -1466,7 +1466,7 @@ school_year,num_of_sems,country,university,department
 2016,1,China,Peking University,Department of Economics
 2016,1,US,University of Wisconsin-Madison,Department of Economics
 2016,2,Japan,Nihon University,Department of Japanese Language and Literature
-2016,1,Brazil,Universidade Estadual de Campinas,Department of Sociology
+2016,1,Brazil,Universidade Estadual de Campinas (UNICAMP),Department of Sociology
 2016,1,Norway,University of Oslo,Department of Social Work
 2016,1,China,Beijing Normal University,Department of Bio-Industry Communication and Development
 2016,2,Japan,Waseda University,Department of Physical Therapy
@@ -1474,7 +1474,7 @@ school_year,num_of_sems,country,university,department
 2016,2,Sweden,KTH Royal Institute of Technology,Department of Mechanical Engineering
 2016,1,Germany,University of Stuttgart,Department of Mechanical Engineering
 2016,1,China,Sichuan University,Department of Chemical Engineering
-2016,1,Canada,University of British Columbia,Department of Chemical Engineering
+2016,1,Canada,The University of British Columbia (UBC),Department of Chemical Engineering
 2016,1,Sweden,Stockholm University,Department of Bioenvironmental Systems Engineering
 2016,2,Japan,Nagasaki University,Department of Forestry and Resource Conservation
 2016,1,Latvia,University of Latvia,Department of Agricultural Economics
@@ -1487,7 +1487,7 @@ school_year,num_of_sems,country,university,department
 2016,2,UK,University of Sussex,Department of Bio-Industry Communication and Development
 2016,1,China,Renmin University of China,Department of Bio-Industry Communication and Development
 2016,1,Hong Kong,City University of Hong Kong,Department of Sociology
-2016,2,US,University of Connecticut,Department of Business Administration
+2016,2,US,University of Connecticut (UConn),Department of Business Administration
 2016,1,Netherlands,Leiden University,Department of Business Administration
 2016,2,Japan,Tokyo Gakugei University,Department of Business Administration
 2016,1,US,Arizona State University,Department of Business Administration
@@ -1496,7 +1496,7 @@ school_year,num_of_sems,country,university,department
 2016,1,China,Peking University,Department of Accounting
 2016,1,Netherlands,University of Groningen,Department of Accounting
 2016,1,US,University of Pittsburgh,Department of Business Administration
-2016,1,US,University of Hawai‘i at Mānoa,Department of Accounting
+2016,1,US,University of Hawai‘i at Mānoa (UHM),Department of Accounting
 2016,1,China,Shanghai Jiao Tong University,Department of Accounting
 2016,1,Austria,Johannes Kepler University of Linz,Department of Accounting
 2016,1,UK,University of Edinburgh,Department of Finance
@@ -1510,11 +1510,11 @@ school_year,num_of_sems,country,university,department
 2016,1,Netherlands,Leiden University,Department of Finance
 2016,1,China,Shanghai Jiao Tong University,Department of Finance
 2016,1,South Korea,Ewha Womans University,Department of International Business
-2016,1,France,Institut d’Études Politiques de Paris,Department of International Business
+2016,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2016,2,Japan,Osaka University,Department of International Business
 2016,1,Netherlands,Utrecht University,Department of International Business
 2016,2,France,Lille Catholic University,Department of International Business
-2016,1,France,Institut d’Études Politiques de Paris,Department of International Business
+2016,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2016,1,Netherlands,Leiden University,Department of International Business
 2016,2,Netherlands,Maastricht University,Department of International Business
 2016,2,Italy,University of Bologna,Department of International Business
@@ -1530,9 +1530,9 @@ school_year,num_of_sems,country,university,department
 2016,1,Japan,University of Tsukuba,Department of Public Health
 2016,1,Japan,Tokyo Institute of Technology,Department of Electrical Engineering
 2016,2,Japan,Tokyo Institute of Technology,Department of Electrical Engineering
-2016,2,France,Sorbonne University,Department of Computer Science and Information Engineering
-2016,2,France,University of Technology of Troyes,Department of Computer Science and Information Engineering
-2016,2,France,University of Technology of Troyes,Department of Computer Science and Information Engineering
+2016,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Computer Science and Information Engineering
+2016,2,France,University of Technology of Troyes (UTT),Department of Computer Science and Information Engineering
+2016,2,France,University of Technology of Troyes (UTT),Department of Computer Science and Information Engineering
 2016,1,China,Peking University,Department of Law
 2016,2,Hong Kong,The Chinese University of Hong Kong,Department of Law
 2016,1,Netherlands,University of Groningen,Department of Law
@@ -1552,7 +1552,7 @@ school_year,num_of_sems,country,university,department
 2016,1,Czechia,Charles University,Department of Foreign Languages and Literatures
 2016,1,China,Peking University,Department of History
 2016,1,China,Peking University,Department of History
-2016,1,France,Institut d’Études Politiques de Paris,Department of Law
+2016,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Law
 2016,1,China,Fudan University,Department of Philosophy
 2016,1,Hong Kong,The University of Hong Kong,Department of Bio-Industry Communication and Development
 2016,2,France,University Jean Moulin - Lyon 3,Department of Political Science
@@ -1570,20 +1570,20 @@ school_year,num_of_sems,country,university,department
 2016,1,Netherlands,Leiden University,Department of Political Science
 2016,1,China,Fudan University,Department of Economics
 2016,1,Canada,University of Toronto,Department of Economics
-2016,1,US,University of Connecticut,Department of Economics
+2016,1,US,University of Connecticut (UConn),Department of Economics
 2016,2,Germany,Free University of Berlin,Department of Sociology
 2016,1,Netherlands,Utrecht University,Department of Sociology
 2016,2,US,"Rutgers, The State University of New Jersey",Department of Medicine
 2016,2,Canada,University of Waterloo,Department of Civil Engineering
 2016,2,US,University of California,Department of Mechanical Engineering
 2016,1,Canada,University of Waterloo,Department of Chemical Engineering
-2016,2,US,North Carolina State University,Department of Veterinary Medicine
+2016,2,US,North Carolina State University (NC State),Department of Veterinary Medicine
 2016,1,Sweden,Stockholm University,Department of Accounting
 2016,2,US,University of California,Department of Accounting
-2016,2,France,Sorbonne University,Department of Biochemical Science and Technology
+2016,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Biochemical Science and Technology
 2016,1,Sweden,Lund University,Department of Mechanical Engineering
 2016,1,Netherlands,University of Groningen,Department of Business Administration
-2016,1,US,North Carolina State University,Department of Business Administration
+2016,1,US,North Carolina State University (NC State),Department of Business Administration
 2016,2,France,University Jean Moulin - Lyon 3,Department of Accounting
 2016,2,Japan,Kansai University,Department of Accounting
 2016,1,Netherlands,Leiden University,Department of Accounting
@@ -1591,25 +1591,25 @@ school_year,num_of_sems,country,university,department
 2016,2,Germany,University of Mannheim,Department of Accounting
 2016,2,UK,University of Manchester,Department of Finance
 2016,1,US,The University of Oklahoma,Department of Finance
-2016,2,US,The California State University,Department of International Business
+2016,2,US,The California State University (CSU),Department of International Business
 2016,1,Netherlands,VU University Amsterdam,Department of International Business
-2016,1,US,North Carolina State University,Department of Information Management
+2016,1,US,North Carolina State University (NC State),Department of Information Management
 2016,1,China,Fudan University,Department of Physical Therapy
 2016,1,Germany,Technical University of Munich,Department of Electrical Engineering
 2016,2,US,University of Wisconsin-Madison,Department of Electrical Engineering
 2016,1,US,University of California,Department of Law
-2016,2,US,The University of North Carolina at Chapel Hill,Department of Life Science
+2016,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Life Science
 2016,1,Singapore,Nanyang Technological University,Department of Life Science
 2016,2,UK,University of Edinburgh,Department of Biochemical Science and Technology
 2016,2,Sweden,Uppsala University,Department of Biochemical Science and Technology
-2016,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2016,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2016,1,Sweden,Linköping University,Department of Pharmacy
 2016,1,China,Shanghai Jiao Tong University,Department of Political Science
-2016,1,US,The University of North Carolina at Chapel Hill,Department of Economics
-2016,1,US,The University of Utah,Department of Drama and Theatre
+2016,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Economics
+2016,1,US,The University of Utah (U of U),Department of Drama and Theatre
 2016,1,US,State University of New York at Albany,Department of Drama and Theatre
 2016,1,Netherlands,University of Groningen,Department of Law
-2016,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
+2016,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
 2016,2,US,University of California,Department of Chemical Engineering
 2016,1,US,University of California,Department of International Business
 2016,1,US,University of California,Department of Electrical Engineering
@@ -1629,9 +1629,9 @@ school_year,num_of_sems,country,university,department
 2015,2,Czechia,Masaryk University,Department of Foreign Languages and Literatures
 2015,2,Japan,University of the Ryukyus,Department of Foreign Languages and Literatures
 2015,1,South Korea,Ewha Womans University,Department of Foreign Languages and Literatures
-2015,2,US,The University of North Carolina at Chapel Hill,Department of Foreign Languages and Literatures
+2015,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Foreign Languages and Literatures
 2015,2,Germany,University of Stuttgart,Department of Foreign Languages and Literatures
-2015,2,US,The University of Utah,Department of Foreign Languages and Literatures
+2015,2,US,The University of Utah (U of U),Department of Foreign Languages and Literatures
 2015,2,Japan,Tokyo Gakugei University,Department of Philosophy
 2015,2,Japan,University of the Ryukyus,Department of Philosophy
 2015,1,China,Xi'an Jiaotong University,Department of Bio-Industry Communication and Development
@@ -1658,7 +1658,7 @@ school_year,num_of_sems,country,university,department
 2015,2,France,Sorbonne Paris North University,Department of Political Science
 2015,1,Germany,Heidelberg University,Department of Political Science
 2015,1,US,University of Wisconsin-Madison,Department of Political Science
-2015,2,US,The California State University,Department of Political Science
+2015,2,US,The California State University (CSU),Department of Political Science
 2015,1,China,Zhejiang Univeristy,Department of Political Science
 2015,2,Japan,Kyoto University,Department of Political Science
 2015,2,Japan,Kyushu University,Department of Political Science
@@ -1678,7 +1678,7 @@ school_year,num_of_sems,country,university,department
 2015,1,China,Shanghai Jiao Tong University,Department of Economics
 2015,2,US,University of Georgia,Department of Economics
 2015,1,Malaysia,Universiti Sains Malaysia,Department of Economics
-2015,2,France,Institut d’Études Politiques de Paris,Department of Economics
+2015,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Economics
 2015,2,Japan,Kansai University,Department of Economics
 2015,2,Japan,Okayama University,Department of Japanese Language and Literature
 2015,1,Singapore,Nanyang Technological University,Department of Sociology
@@ -1686,7 +1686,7 @@ school_year,num_of_sems,country,university,department
 2015,1,Thailand,Chulalongkorn University,Department of Civil Engineering
 2015,1,Japan,University of Tsukuba,Department of Mechanical Engineering
 2015,2,Japan,Tokyo University of Foreign Studies,Department of Mechanical Engineering
-2015,1,US,University of Maryland,Department of Forestry and Resource Conservation
+2015,1,US,University of Maryland (UMD),Department of Forestry and Resource Conservation
 2015,2,France,EPF - Graduate School of Engineering,Department of Civil Engineering
 2015,2,Switzerland,University of Lausanne,Department of Horticultural Science
 2015,1,Germany,University of Mannheim,Department of Library and Information Science
@@ -1703,7 +1703,7 @@ school_year,num_of_sems,country,university,department
 2015,2,Sweden,Umeå University,Department of Horticultural Science
 2015,2,Japan,Akita International University,Department of Horticultural Science
 2015,1,Switzerland,University of Lausanne,Department of Bio-Industry Communication and Development
-2015,1,US,The University of North Carolina at Chapel Hill,Department of Bio-Industry Communication and Development
+2015,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Bio-Industry Communication and Development
 2015,1,Turkey,Koç University,Department of Bio-Industry Communication and Development
 2015,2,Japan,Akita International University,Department of Bio-industrial Mechatronics Engineering
 2015,2,Sweden,Linköping University,Department of Business Administration
@@ -1727,9 +1727,9 @@ school_year,num_of_sems,country,university,department
 2015,2,Germany,Ulm University,Department of Life Science
 2015,2,Canada,Simon Fraser University (SFU),Department of Biochemical Science and Technology
 2015,2,Japan,Osaka University,Department of Chinese Literature
-2015,2,US,North Carolina State University,Department of Agricultural Economics
+2015,2,US,North Carolina State University (NC State),Department of Agricultural Economics
 2015,2,UK,University of Southampton,Department of Foreign Languages and Literatures
-2015,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2015,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2015,2,France,University Jean Moulin - Lyon 3,Department of Foreign Languages and Literatures
 2015,1,Canada,Queen's University,Department of Foreign Languages and Literatures
 2015,1,Canada,Simon Fraser University (SFU),Department of Foreign Languages and Literatures
@@ -1740,7 +1740,7 @@ school_year,num_of_sems,country,university,department
 2015,1,Netherlands,University of Groningen,Department of Philosophy
 2015,2,China,Shanghai Jiao Tong University,Department of Philosophy
 2015,1,China,Jilin University,Department of Anthropology
-2015,2,Canada,University of British Columbia,Department of Psychology
+2015,2,Canada,The University of British Columbia (UBC),Department of Psychology
 2015,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
 2015,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
 2015,2,Japan,Osaka University,Department of Japanese Language and Literature
@@ -1769,18 +1769,18 @@ school_year,num_of_sems,country,university,department
 2015,1,South Korea,Korea University,Department of Political Science
 2015,1,China,Fudan University,Department of Political Science
 2015,2,Japan,Osaka University,Department of Political Science
-2015,2,US,The University of North Carolina at Chapel Hill,Department of Economics
+2015,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Economics
 2015,1,US,The University of Oklahoma,Department of Economics
 2015,1,Japan,Yokohama National University,Department of Economics
 2015,1,Canada,Simon Fraser University (SFU),Department of Economics
 2015,2,Spain,Autonomous University of Barcelona,Department of Economics
-2015,1,US,University of Hawai‘i at Mānoa,Department of Sociology
+2015,1,US,University of Hawai‘i at Mānoa (UHM),Department of Sociology
 2015,1,China,Peking University,Department of Economics
 2015,1,Malaysia,University of Malaya,Department of Bio-Industry Communication and Development
 2015,1,Germany,University of Konstanz,Department of Clinical Laboratory Sciences and Medical Biotechnology
 2015,2,Japan,Kanagawa University,Department of Mechanical Engineering
 2015,1,China,Peking University,Department of Civil Engineering
-2015,2,Canada,University of British Columbia,Department of Mechanical Engineering
+2015,2,Canada,The University of British Columbia (UBC),Department of Mechanical Engineering
 2015,1,Israel,Technion-Israel Institute of Technology,Department of Mechanical Engineering
 2015,1,Switzerland,University of Bern,Department of Mechanical Engineering
 2015,2,US,"Rutgers, The State University of New Jersey",Department of Finance
@@ -1793,12 +1793,12 @@ school_year,num_of_sems,country,university,department
 2015,1,China,Peking University,Department of Agronomy
 2015,2,Singapore,National University of Singapore,Department of Bioenvironmental Systems Engineering
 2015,1,US,Arizona State University,Department of Bioenvironmental Systems Engineering
-2015,2,Canada,University of British Columbia,Department of Psychology
+2015,2,Canada,The University of British Columbia (UBC),Department of Psychology
 2015,2,China,Shanghai Jiao Tong University,Department of Animal Science and Technology
 2015,1,Japan,Nagoya University of Foreign Studies,Department of Agricultural Economics
 2015,1,Australia,The University of Melbourne,Department of Finance
 2015,1,China,Fudan University,Department of Bio-Industry Communication and Development
-2015,1,US,University of Hawai‘i at Mānoa,Department of Bio-Industry Communication and Development
+2015,1,US,University of Hawai‘i at Mānoa (UHM),Department of Bio-Industry Communication and Development
 2015,1,Hong Kong,The Chinese University of Hong Kong,Department of Bio-Industry Communication and Development
 2015,1,Denmark,University of Copenhagen,Department of Bio-Industry Communication and Development
 2015,1,Japan,University of Tsukuba,Department of Bio-Industry Communication and Development
@@ -1806,17 +1806,17 @@ school_year,num_of_sems,country,university,department
 2015,1,Sweden,Lund University,Department of Business Administration
 2015,2,Japan,Kwansei Gakuin University,Department of Bio-Industry Communication and Development
 2015,1,China,China Agricultural University,Department of Bio-Industry Communication and Development
-2015,2,US,North Carolina State University,Department of Bio-Industry Communication and Development
+2015,2,US,North Carolina State University (NC State),Department of Bio-Industry Communication and Development
 2015,2,Japan,Okayama University,Department of Mechanical Engineering
 2015,1,China,Sun Yat-sen University,Department of Entomology
-2015,1,Canada,University of British Columbia,Department of Business Administration
-2015,1,Canada,University of British Columbia,Department of Business Administration
+2015,1,Canada,The University of British Columbia (UBC),Department of Business Administration
+2015,1,Canada,The University of British Columbia (UBC),Department of Business Administration
 2015,2,US,University of California,Department of Business Administration
-2015,2,US,The California State University,Department of Business Administration
+2015,2,US,The California State University (CSU),Department of Business Administration
 2015,2,Hong Kong,The Chinese University of Hong Kong,Department of Business Administration
 2015,1,US,Arizona State University,Department of Business Administration
 2015,2,South Korea,Ewha Womans University,Department of Business Administration
-2015,1,US,Hawai‘i Pacific University,Department of Business Administration
+2015,1,US,Hawai‘i Pacific University (HPU),Department of Business Administration
 2015,1,Hong Kong,The Hong Kong Polytechnic University,Department of Business Administration
 2015,1,Singapore,Singapore Management University,Department of Business Administration
 2015,2,Czechia,Charles University,Department of Accounting
@@ -1840,7 +1840,7 @@ school_year,num_of_sems,country,university,department
 2015,1,Singapore,Nanyang Technological University,Department of Finance
 2015,1,France,Lille Catholic University,Department of International Business
 2015,1,China,Peking University,Department of International Business
-2015,1,France,Institut d’Études Politiques de Paris,Department of International Business
+2015,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2015,1,Sweden,Lund University,Department of International Business
 2015,2,Singapore,National University of Singapore,Department of International Business
 2015,1,UK,University of Manchester,Department of International Business
@@ -1851,7 +1851,7 @@ school_year,num_of_sems,country,university,department
 2015,2,Germany,RWTH Aachen University,Department of International Business
 2015,1,Netherlands,University of Groningen,Department of International Business
 2015,1,China,Lanzhou University,Department of International Business
-2015,1,France,Institut d’Études Politiques de Paris,Department of International Business
+2015,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2015,1,Hong Kong,The Hong Kong Polytechnic University,Department of International Business
 2015,1,Switzerland,University of Lausanne,Department of International Business
 2015,2,Japan,Tokyo Gakugei University,Department of International Business
@@ -1873,13 +1873,13 @@ school_year,num_of_sems,country,university,department
 2015,2,France,EPF - Graduate School of Engineering,Department of Electrical Engineering
 2015,2,Sweden,KTH Royal Institute of Technology,Department of Electrical Engineering
 2015,2,Japan,Doshisha University,Department of Computer Science and Information Engineering
-2015,2,Canada,University of British Columbia,Department of Computer Science and Information Engineering
+2015,2,Canada,The University of British Columbia (UBC),Department of Computer Science and Information Engineering
 2015,1,Netherlands,University of Groningen,Department of Law
 2015,1,China,Peking University,Department of Law
 2015,2,Switzerland,University of St. Gallen,Department of Law
 2015,1,China,Tsinghua University,Department of Chinese Literature
 2015,2,Norway,University of Oslo,Department of Foreign Languages and Literatures
-2015,2,US,The University of Utah,Department of Foreign Languages and Literatures
+2015,2,US,The University of Utah (U of U),Department of Foreign Languages and Literatures
 2015,2,Germany,University of Tubingen,Department of Foreign Languages and Literatures
 2015,2,Japan,Akita International University,Department of Foreign Languages and Literatures
 2015,1,Spain,Autonomous University of Barcelona,Department of History
@@ -1887,7 +1887,7 @@ school_year,num_of_sems,country,university,department
 2015,1,China,Peking University,Department of History
 2015,1,China,Peking University,Department of History
 2015,1,China,Zhejiang Univeristy,Department of History
-2015,2,US,The University of North Carolina at Chapel Hill,Department of Political Science
+2015,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Political Science
 2015,2,Japan,Osaka University,Department of Japanese Language and Literature
 2015,2,UK,University of Sussex,Department of Psychology
 2015,1,Hong Kong,City University of Hong Kong,Department of Geography
@@ -1909,11 +1909,11 @@ school_year,num_of_sems,country,university,department
 2015,2,US,University of California,Department of Accounting
 2015,1,Netherlands,Leiden University,Department of Finance
 2015,1,Sweden,Stockholm University,Department of Finance
-2015,1,US,The California State University,Department of Finance
+2015,1,US,The California State University (CSU),Department of Finance
 2015,2,Germany,Ruhr-University Bochum,Department of Finance
 2015,2,US,University of California,Department of International Business
 2015,1,New Zealand,The University of Auckland,Department of International Business
-2015,1,France,University Grenoble Alpes,Department of Psychology
+2015,1,France,University Grenoble Alpes (UGA),Department of Psychology
 2015,2,Hong Kong,The Chinese University of Hong Kong,Department of Public Health
 2015,2,Canada,University of Waterloo,Department of Computer Science and Information Engineering
 2015,2,China,Tsinghua University,Department of Law
@@ -1925,8 +1925,8 @@ school_year,num_of_sems,country,university,department
 2015,2,South Africa,Stellenbosch University,Department of Social Work
 2015,2,Sweden,Umeå University,Department of Forestry and Resource Conservation
 2015,1,Japan,Doshisha University,Department of Japanese Language and Literature
-2015,1,France,Institut d’Études Politiques de Paris,Department of Computer Science and Information Engineering
-2015,2,US,The California State University,Department of Business Administration
+2015,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Computer Science and Information Engineering
+2015,2,US,The California State University (CSU),Department of Business Administration
 2015,2,Germany,University of Konstanz,Department of Law
 2015,2,Germany,University of Mannheim,Department of International Business
 2015,1,Portugal,University of Porto,Department of Law
@@ -1944,9 +1944,9 @@ school_year,num_of_sems,country,university,department
 2015,2,Austria,Johannes Kepler University of Linz,Department of Japanese Language and Literature
 2015,2,Japan,Tokyo Gakugei University,Department of Medicine
 2015,1,China,Peking University,Department of Sociology
-2015,1,US,University of Maryland,Department of Foreign Languages and Literatures
+2015,1,US,University of Maryland (UMD),Department of Foreign Languages and Literatures
 2015,1,Japan,Kwansei Gakuin University,Department of Chinese Literature
-2015,2,Canada,University of British Columbia,Department of Chinese Literature
+2015,2,Canada,The University of British Columbia (UBC),Department of Chinese Literature
 2015,2,South Korea,Hanyang University,Department of Information Management
 2015,1,Japan,Nagoya University of Foreign Studies,Department of Foreign Languages and Literatures
 2015,1,Switzerland,University of Bern,Department of International Business
@@ -1960,13 +1960,13 @@ school_year,num_of_sems,country,university,department
 2015,2,South Korea,Korea University,Department of Political Science
 2015,1,Australia,The University of Melbourne,Department of Computer Science and Information Engineering
 2015,1,Germany,University of Stuttgart,Department of Finance
-2015,1,US,University of Maryland,Department of Business Administration
+2015,1,US,University of Maryland (UMD),Department of Business Administration
 2015,2,France,EPF - Graduate School of Engineering,Department of Computer Science and Information Engineering
 2015,1,Hong Kong,The Hong Kong Polytechnic University,Department of Plant Pathology and Microbiology
 2015,1,Singapore,Nanyang Technological University,Department of Business Administration
 2015,2,Japan,Kyushu University,Department of Japanese Language and Literature
 2015,1,Hong Kong,The Chinese University of Hong Kong,Department of Chinese Literature
-2015,1,France,Institut d’Études Politiques de Paris,Department of International Business
+2015,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2015,2,Belgium,Université Libre de Bruxelles,Department of Bio-Industry Communication and Development
 2015,2,Spain,Technical University of Madrid,Department of Horticultural Science
 2015,2,Germany,Heidelberg University,Department of Chinese Literature
@@ -1975,8 +1975,8 @@ school_year,num_of_sems,country,university,department
 2015,1,Germany,Humboldt-University Berlin,Department of Economics
 2015,1,Germany,Humboldt-University Berlin,Department of Economics
 2015,2,Spain,Complutense University of Madrid,Department of Economics
-2015,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
-2015,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
+2015,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
+2015,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
 2014,2,Netherlands,University of Groningen,Department of Foreign Languages and Literatures
 2014,2,Hong Kong,The University of Hong Kong,Department of Philosophy
 2014,2,Spain,Pompeu Fabra University,Department of Foreign Languages and Literatures
@@ -2001,19 +2001,19 @@ school_year,num_of_sems,country,university,department
 2014,2,South Korea,Ewha Womans University,Department of Horticultural Science
 2014,2,US,Temple University,Department of Foreign Languages and Literatures
 2014,1,Netherlands,University of Groningen,Department of Business Administration
-2014,1,US,North Carolina State University,Department of Political Science
+2014,1,US,North Carolina State University (NC State),Department of Political Science
 2014,2,Japan,Kwansei Gakuin University,Department of Foreign Languages and Literatures
 2014,1,Canada,University of Victoria,Department of Forestry and Resource Conservation
 2014,1,US,State University of New York at Albany,Department of Political Science
 2014,1,Australia,The University of New South Wales,Department of Civil Engineering
 2014,2,US,Temple University,Department of International Business
 2014,1,Canada,Simon Fraser University (SFU),Department of Mathematics
-2014,2,France,Institut d’Études Politiques de Paris,Department of International Business
-2014,2,US,North Carolina State University,Department of Business Administration
-2014,1,Canada,University of British Columbia,Department of Economics
+2014,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
+2014,2,US,North Carolina State University (NC State),Department of Business Administration
+2014,1,Canada,The University of British Columbia (UBC),Department of Economics
 2014,2,South Korea,Seoul National University,Department of Psychology
-2014,2,US,University of Hawai‘i at Mānoa,Department of Psychology
-2014,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+2014,2,US,University of Hawai‘i at Mānoa (UHM),Department of Psychology
+2014,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 2014,1,US,Arizona State University,Department of Anthropology
 2014,1,Japan,Nagoya University of Foreign Studies,Department of Foreign Languages and Literatures
 2014,1,Hong Kong,The Hong Kong Polytechnic University,Department of International Business
@@ -2022,7 +2022,7 @@ school_year,num_of_sems,country,university,department
 2014,1,Singapore,Nanyang Technological University,Department of Political Science
 2014,1,Thailand,Chulalongkorn University,Department of Political Science
 2014,2,Turkey,Koç University,Department of International Business
-2014,2,Canada,University of British Columbia,Department of Life Science
+2014,2,Canada,The University of British Columbia (UBC),Department of Life Science
 2014,1,US,Arizona State University,Department of Business Administration
 2014,2,Netherlands,University of Groningen,Department of Chemical Engineering
 2014,2,Japan,Tokyo University of Foreign Studies,Department of Law
@@ -2042,7 +2042,7 @@ school_year,num_of_sems,country,university,department
 2014,2,Spain,Autonomous University of Barcelona,Department of Foreign Languages and Literatures
 2014,1,South Korea,Sunchon National University,Department of Geography
 2014,2,Hong Kong,The University of Hong Kong,Department of Business Administration
-2014,1,US,University of Maryland,Department of Foreign Languages and Literatures
+2014,1,US,University of Maryland (UMD),Department of Foreign Languages and Literatures
 2014,2,South Korea,Korea University,Department of Drama and Theatre
 2014,2,South Korea,Pusan National University,Department of International Business
 2014,2,Japan,Kyushu University,Department of History
@@ -2070,12 +2070,12 @@ school_year,num_of_sems,country,university,department
 2014,2,Japan,Akita International University,Department of Political Science
 2014,2,Canada,University of Victoria,Department of Bio-Industry Communication and Development
 2014,2,South Korea,Yonsei University,Department of International Business
-2014,1,US,The California State University,Department of Economics
+2014,1,US,The California State University (CSU),Department of Economics
 2014,1,Germany,University of Tubingen,Department of Political Science
 2014,2,UK,University of Edinburgh,Department of International Business
-2014,1,US,University of Hawai‘i at Mānoa,Department of Atmospheric Sciences
+2014,1,US,University of Hawai‘i at Mānoa (UHM),Department of Atmospheric Sciences
 2014,2,Japan,University of the Ryukyus,Department of Psychology
-2014,2,Canada,University of British Columbia,Department of Mechanical Engineering
+2014,2,Canada,The University of British Columbia (UBC),Department of Mechanical Engineering
 2014,1,Sweden,Linköping University,Department of Materials Science and Engineering
 2014,2,US,University of California,Department of International Business
 2014,1,Czechia,Charles University,Department of Political Science
@@ -2083,7 +2083,7 @@ school_year,num_of_sems,country,university,department
 2014,2,Sweden,Uppsala University,Department of Foreign Languages and Literatures
 2014,2,Portugal,University of Porto,Department of Political Science
 2014,2,Spain,Pompeu Fabra University,Department of Political Science
-2014,2,US,The University of North Carolina at Chapel Hill,Department of Foreign Languages and Literatures
+2014,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Foreign Languages and Literatures
 2014,1,Sweden,KTH Royal Institute of Technology,Department of Electrical Engineering
 2014,1,Japan,University of Tsukuba,Department of International Business
 2014,2,Singapore,Nanyang Technological University,Department of Business Administration
@@ -2096,16 +2096,16 @@ school_year,num_of_sems,country,university,department
 2014,1,Japan,Tokyo Institute of Technology,Department of Geography
 2014,2,Finland,University of Helsinki,Department of Economics
 2014,1,Czechia,Charles University,Department of Political Science
-2014,2,Canada,University of British Columbia,Department of Life Science
+2014,2,Canada,The University of British Columbia (UBC),Department of Life Science
 2014,1,Singapore,National University of Singapore,Department of Foreign Languages and Literatures
 2014,1,Australia,Griffith University,Department of Foreign Languages and Literatures
 2014,2,Canada,Simon Fraser University (SFU),Department of Foreign Languages and Literatures
 2014,2,France,EPF - Graduate School of Engineering,Department of Chemical Engineering
-2014,2,US,The University of North Carolina at Chapel Hill,Department of Psychology
+2014,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Psychology
 2014,2,Japan,Tohoku University,Department of Law
 2014,2,Netherlands,University of Groningen,Department of Finance
-2014,1,US,University of Hawai‘i at Mānoa,Department of Economics
-2014,1,US,North Carolina State University,Department of Political Science
+2014,1,US,University of Hawai‘i at Mānoa (UHM),Department of Economics
+2014,1,US,North Carolina State University (NC State),Department of Political Science
 2014,2,South Korea,Sungkyunkwan University,Department of International Business
 2014,2,US,State University of New York at Albany,Department of Foreign Languages and Literatures
 2014,2,France,EPF - Graduate School of Engineering,Department of Physics
@@ -2124,14 +2124,14 @@ school_year,num_of_sems,country,university,department
 2014,1,Germany,Ruhr-University Bochum,Department of International Business
 2014,2,Spain,University of Salamanca,Department of Foreign Languages and Literatures
 2014,2,Netherlands,University of Groningen,Department of Foreign Languages and Literatures
-2014,2,Canada,University of British Columbia,Department of Finance
+2014,2,Canada,The University of British Columbia (UBC),Department of Finance
 2014,1,Australia,The University of New South Wales,Department of Information Management
 2014,1,Switzerland,University of Lausanne,Department of Materials Science and Engineering
 2014,1,Singapore,Singapore Management University,Department of International Business
-2014,2,US,The California State University,Department of Forestry and Resource Conservation
+2014,2,US,The California State University (CSU),Department of Forestry and Resource Conservation
 2014,2,South Africa,Stellenbosch University,Department of Foreign Languages and Literatures
 2014,2,Japan,Tokyo Gakugei University,Department of Physical Therapy
-2014,1,US,University of Maryland,Department of Japanese Language and Literature
+2014,1,US,University of Maryland (UMD),Department of Japanese Language and Literature
 2014,2,US,University of California,Department of International Business
 2014,1,US,Arizona State University,Department of Foreign Languages and Literatures
 2014,2,Canada,University of Waterloo,Department of Electrical Engineering
@@ -2149,12 +2149,12 @@ school_year,num_of_sems,country,university,department
 2014,1,Germany,University of Tubingen,Department of International Business
 2014,2,US,University of California,Department of Business Administration
 2014,1,China,Xi'an Jiaotong University,Department of Electrical Engineering
-2014,1,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2014,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2014,1,Australia,Deakin University,Department of Library and Information Science
 2014,2,France,University of Rennes 1,Department of Foreign Languages and Literatures
 2014,2,France,MINES ParisTech,Department of Electrical Engineering
-2014,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
-2014,1,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2014,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
+2014,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2014,2,France,Lille Catholic University,Department of Political Science
 2014,1,France,Lille Catholic University,Department of International Business
 2014,2,Belgium,Université Libre de Bruxelles,Department of Foreign Languages and Literatures
@@ -2162,7 +2162,7 @@ school_year,num_of_sems,country,university,department
 2014,2,France,MINES ParisTech,Department of Electrical Engineering
 2014,2,France,Sorbonne Paris North University,Department of Mathematics
 2014,2,France,University of Paris Ouest - Nanterre La Défense,Department of History
-2014,1,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2014,1,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2014,1,France,University of Rennes 1,Department of International Business
 2014,2,Singapore,Singapore Management University,Department of Bio-Industry Communication and Development
 2014,2,France,University of Rennes 1,Department of Foreign Languages and Literatures
@@ -2170,7 +2170,7 @@ school_year,num_of_sems,country,university,department
 2014,1,France,University of Rennes 1,Department of International Business
 2014,2,France,Lille Catholic University,Department of Psychology
 2014,2,France,Lille Catholic University,Department of Veterinary Medicine
-2014,1,France,University of Technology of Troyes,Department of Geosciences
+2014,1,France,University of Technology of Troyes (UTT),Department of Geosciences
 2014,2,Germany,Humboldt-University Berlin,Department of Biochemical Science and Technology
 2014,1,Germany,Humboldt-University Berlin,Department of International Business
 2014,1,Germany,Ludwig Maximilian University of Munich,Department of Law
@@ -2301,19 +2301,19 @@ school_year,num_of_sems,country,university,department
 2014,1,China,Fudan University,Department of Agricultural Economics
 2014,2,Spain,Complutense University of Madrid,Department of Political Science
 2014,2,France,Lille Catholic University,Department of Anthropology
-2014,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
-2014,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
+2014,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
+2014,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
 2013,1,Australia,The University of New South Wales,Department of Chinese Literature
-2013,2,US,North Carolina State University,Department of Foreign Languages and Literatures
+2013,2,US,North Carolina State University (NC State),Department of Foreign Languages and Literatures
 2013,1,Norway,University of Oslo,Department of Foreign Languages and Literatures
-2013,2,US,The University of North Carolina at Chapel Hill,Department of Foreign Languages and Literatures
+2013,2,US,The University of North Carolina at Chapel Hill (UNC),Department of Foreign Languages and Literatures
 2013,2,Germany,Ruhr-University Bochum,Department of Foreign Languages and Literatures
 2013,2,New Zealand,The University of Auckland,Department of History
 2013,1,China,Peking University,Department of History
 2013,2,Germany,Humboldt-University Berlin,Department of Political Science
 2013,2,Japan,Tohoku University,Department of Physics
 2013,2,Germany,Friedrich-Alexander - University Erlangen-Nurnberg,Department of Economics
-2013,1,US,North Carolina State University,Department of Economics
+2013,1,US,North Carolina State University (NC State),Department of Economics
 2013,2,Germany,TU Dortmund University,Department of Economics
 2013,2,Hong Kong,City University of Hong Kong,Department of Social Work
 2013,1,US,State University of New York at Albany,Department of Chemical Engineering
@@ -2321,7 +2321,7 @@ school_year,num_of_sems,country,university,department
 2013,1,Sweden,Uppsala University,Department of Forestry and Resource Conservation
 2013,2,US,University of Oregon,Department of Animal Science and Technology
 2013,2,Japan,University of the Ryukyus,Department of Horticultural Science
-2013,2,US,University of Hawai‘i at Mānoa,Department of Horticultural Science
+2013,2,US,University of Hawai‘i at Mānoa (UHM),Department of Horticultural Science
 2013,2,Japan,Kyoto University,Department of Veterinary Medicine
 2013,1,Australia,The University of New South Wales,Department of Bio-Industry Communication and Development
 2013,1,US,State University of New York at Albany,Department of Bio-Industry Communication and Development
@@ -2347,9 +2347,9 @@ school_year,num_of_sems,country,university,department
 2013,2,South Africa,Stellenbosch University,Department of Biochemical Science and Technology
 2013,2,US,The University of Oklahoma,Department of Medicine
 2013,1,China,Renmin University of China,Department of Philosophy
-2013,2,US,University of Hawai‘i at Mānoa,Department of Finance
+2013,2,US,University of Hawai‘i at Mānoa (UHM),Department of Finance
 2013,1,Germany,University of Hamburg,Department of Geography
-2013,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2013,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2013,1,South Korea,Seoul National University,Department of Business Administration
 2013,2,France,Sorbonne Paris North University,Department of International Business
 2013,1,Germany,Humboldt-University Berlin,Department of Chinese Literature
@@ -2361,7 +2361,7 @@ school_year,num_of_sems,country,university,department
 2013,1,Germany,University of Tubingen,Department of Foreign Languages and Literatures
 2013,1,Germany,University of Tubingen,Department of Foreign Languages and Literatures
 2013,2,Singapore,Singapore Management University,Department of Foreign Languages and Literatures
-2013,1,US,The University of North Carolina at Chapel Hill,Department of Foreign Languages and Literatures
+2013,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Foreign Languages and Literatures
 2013,2,Japan,Kwansei Gakuin University,Department of Foreign Languages and Literatures
 2013,1,Germany,University of Hamburg,Department of Foreign Languages and Literatures
 2013,1,Canada,University of Toronto,Department of Foreign Languages and Literatures
@@ -2370,7 +2370,7 @@ school_year,num_of_sems,country,university,department
 2013,2,Chile,Pontificia Universidad Católica de Chile,Department of Foreign Languages and Literatures
 2013,2,Germany,University of Hamburg,Department of Foreign Languages and Literatures
 2013,1,UK,University of Southampton,Department of Foreign Languages and Literatures
-2013,2,US,University of Hawai‘i at Mānoa,Department of Political Science
+2013,2,US,University of Hawai‘i at Mānoa (UHM),Department of Political Science
 2013,2,Germany,University of Bonn,Department of History
 2013,1,China,Peking University,Department of History
 2013,2,Japan,Keio University,Department of Philosophy
@@ -2391,7 +2391,7 @@ school_year,num_of_sems,country,university,department
 2013,2,Japan,Tokyo Gakugei University,Department of Library and Information Science
 2013,1,China,Fudan University,Department of Library and Information Science
 2013,2,Japan,University of Tsukuba,Department of Library and Information Science
-2013,1,Canada,University of British Columbia,Department of Library and Information Science
+2013,1,Canada,The University of British Columbia (UBC),Department of Library and Information Science
 2013,2,Japan,Aoyama Gakuin University,Department of Japanese Language and Literature
 2013,2,Japan,Meiji University,Department of Japanese Language and Literature
 2013,1,Japan,Doshisha University,Department of Japanese Language and Literature
@@ -2413,7 +2413,7 @@ school_year,num_of_sems,country,university,department
 2013,2,US,State University of New York at Albany,Department of Physics
 2013,1,Australia,The University of Queensland,Department of Chemistry
 2013,2,Germany,Karlsruhe Institute of Technology,Department of Psychology
-2013,2,France,Sorbonne University,Department of Psychology
+2013,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Psychology
 2013,1,Turkey,Koç University,Department of Geosciences
 2013,1,Germany,Ulm University,Department of Geography
 2013,1,Australia,The University of New South Wales,Department of Geography
@@ -2424,7 +2424,7 @@ school_year,num_of_sems,country,university,department
 2013,2,US,State University of New York at Albany,Department of Political Science
 2013,1,Hong Kong,The Chinese University of Hong Kong,Department of Political Science
 2013,1,Iceland,University of Iceland,Department of Political Science
-2013,2,France,Institut d’Études Politiques de Paris,Department of Political Science
+2013,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2013,2,Germany,Ludwig Maximilian University of Munich,Department of Political Science
 2013,2,Japan,Tokyo University of Foreign Studies,Department of Political Science
 2013,2,Sweden,Linköping University,Department of Political Science
@@ -2440,11 +2440,11 @@ school_year,num_of_sems,country,university,department
 2013,2,Japan,Osaka University,Department of Economics
 2013,1,Hong Kong,The University of Hong Kong,Department of Economics
 2013,2,Australia,The University of New South Wales,Department of Economics
-2013,2,US,University of Hawai‘i at Mānoa,Department of Economics
+2013,2,US,University of Hawai‘i at Mānoa (UHM),Department of Economics
 2013,1,China,Beijing Normal University,Department of Economics
 2013,2,Japan,Osaka University,Department of Economics
 2013,1,China,Shanghai Jiao Tong University,Department of Economics
-2013,2,France,Institut d’Études Politiques de Paris,Department of Economics
+2013,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Economics
 2013,2,Spain,Autonomous University of Barcelona,Department of Foreign Languages and Literatures
 2013,1,Singapore,Singapore Management University,Department of Accounting
 2013,2,Japan,Nagoya University,Department of Medicine
@@ -2464,7 +2464,7 @@ school_year,num_of_sems,country,university,department
 2013,1,South Korea,Ewha Womans University,Department of Materials Science and Engineering
 2013,2,Japan,Tokyo Gakugei University,Department of Agronomy
 2013,2,Japan,Kwansei Gakuin University,Department of Agronomy
-2013,2,US,The University of Utah,Department of Agricultural Chemistry
+2013,2,US,The University of Utah (U of U),Department of Agricultural Chemistry
 2013,1,Germany,Technical University of Munich,Department of Forestry and Resource Conservation
 2013,1,France,University Jean Moulin - Lyon 3,Department of Animal Science and Technology
 2013,1,US,State University of New York at Albany,Department of Veterinary Medicine
@@ -2482,7 +2482,7 @@ school_year,num_of_sems,country,university,department
 2013,2,Finland,University of Helsinki,Department of Accounting
 2013,1,China,Sun Yat-sen University,Department of Accounting
 2013,2,Spain,Autonomous University of Madrid,Department of Accounting
-2013,2,US,The California State University,Department of Finance
+2013,2,US,The California State University (CSU),Department of Finance
 2013,1,Netherlands,University of Groningen,Department of Finance
 2013,1,Germany,Humboldt-University Berlin,Department of International Business
 2013,2,Germany,University of Mannheim,Department of International Business
@@ -2496,9 +2496,9 @@ school_year,num_of_sems,country,university,department
 2013,2,Canada,University of Waterloo,Department of Computer Science and Information Engineering
 2013,2,Hong Kong,The University of Hong Kong,Department of Law
 2013,2,Turkey,Koç University,Department of Law
-2013,1,Canada,University of British Columbia,Department of Law
+2013,1,Canada,The University of British Columbia (UBC),Department of Law
 2013,1,Australia,Macquarie University,Department of Life Science
-2013,1,US,North Carolina State University,Department of Life Science
+2013,1,US,North Carolina State University (NC State),Department of Life Science
 2013,2,Japan,Hokkaido University,Department of Life Science
 2013,1,Australia,The University of New South Wales,Department of Life Science
 2013,2,Japan,Nagasaki University,Department of Chinese Literature
@@ -2528,10 +2528,10 @@ school_year,num_of_sems,country,university,department
 2013,2,Japan,University of Tsukuba,Department of Library and Information Science
 2013,1,Germany,RWTH Aachen University,Department of Library and Information Science
 2013,1,China,Renmin University of China,Department of Library and Information Science
-2013,1,US,University of Maryland,Department of Library and Information Science
+2013,1,US,University of Maryland (UMD),Department of Library and Information Science
 2013,2,Japan,Kanazawa University,Department of Japanese Language and Literature
 2013,2,Japan,Waseda University,Department of Japanese Language and Literature
-2013,2,France,Institut d’Études Politiques de Paris,Department of Drama and Theatre
+2013,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Drama and Theatre
 2013,1,China,University of Science and Technology of China,Department of Geosciences
 2013,1,Sweden,Umeå University,Department of Psychology
 2013,2,South Korea,Seoul National University,Department of Psychology
@@ -2549,14 +2549,14 @@ school_year,num_of_sems,country,university,department
 2013,1,UK,University of Southampton,Department of Political Science
 2013,2,Singapore,National University of Singapore,Department of International Business
 2013,1,China,Tsinghua University,Department of Political Science
-2013,2,Canada,University of British Columbia,Department of Political Science
+2013,2,Canada,The University of British Columbia (UBC),Department of Political Science
 2013,2,US,University of Wisconsin-Madison,Department of Political Science
 2013,1,Switzerland,University of Bern,Department of Political Science
 2013,1,Japan,Kanagawa University,Department of Political Science
 2013,1,Belgium,Université Libre de Bruxelles,Department of Political Science
 2013,2,France,Sorbonne Paris North University,Department of Political Science
-2013,1,Canada,University of British Columbia,Department of Economics
-2013,2,US,The California State University,Department of Economics
+2013,1,Canada,The University of British Columbia (UBC),Department of Economics
+2013,2,US,The California State University (CSU),Department of Economics
 2013,2,Japan,Doshisha University,Department of Economics
 2013,1,Austria,Johannes Kepler University of Linz,Department of Economics
 2013,1,South Korea,Pusan National University,Department of Economics
@@ -2576,11 +2576,11 @@ school_year,num_of_sems,country,university,department
 2013,2,Sweden,Umeå University,Department of Mechanical Engineering
 2013,1,Sweden,Umeå University,Department of Chemical Engineering
 2013,1,China,Xiamen University,Department of Chemical Engineering
-2013,1,Canada,University of British Columbia,Department of Engineering Science and Ocean Engineering
+2013,1,Canada,The University of British Columbia (UBC),Department of Engineering Science and Ocean Engineering
 2013,1,Germany,RWTH Aachen University,Department of Agricultural Chemistry
 2013,1,China,Peking University,Department of Forestry and Resource Conservation
 2013,1,China,China Agricultural University,Department of Forestry and Resource Conservation
-2013,1,US,The California State University,Department of Life Science
+2013,1,US,The California State University (CSU),Department of Life Science
 2013,1,Austria,Johannes Kepler University of Linz,Department of Agricultural Economics
 2013,2,UK,University of Edinburgh,Department of Bio-Industry Communication and Development
 2013,1,Germany,Ruhr-University Bochum,Department of Bio-Industry Communication and Development
@@ -2603,7 +2603,7 @@ school_year,num_of_sems,country,university,department
 2013,1,Netherlands,Utrecht University,Department of Finance
 2013,2,US,University of California,Department of Finance
 2013,1,China,Peking University,Department of Finance
-2013,2,France,Institut d’Études Politiques de Paris,Department of Finance
+2013,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Finance
 2013,2,Switzerland,University of St. Gallen,Department of Finance
 2013,2,France,Université Montpellier 2,Department of Finance
 2013,1,Spain,Autonomous University of Madrid,Department of Finance
@@ -2626,7 +2626,7 @@ school_year,num_of_sems,country,university,department
 2013,1,China,Peking University,Department of International Business
 2013,1,Spain,Pompeu Fabra University,Department of International Business
 2013,1,Hong Kong,City University of Hong Kong,Department of Information Management
-2013,2,US,The California State University,Department of Public Health
+2013,2,US,The California State University (CSU),Department of Public Health
 2013,1,Germany,Technical University of Munich,Department of Electrical Engineering
 2013,2,US,University of California,Department of Electrical Engineering
 2013,1,Australia,The University of Melbourne,Department of Electrical Engineering
@@ -2634,20 +2634,20 @@ school_year,num_of_sems,country,university,department
 2013,2,Canada,University of Waterloo,Department of Computer Science and Information Engineering
 2013,1,China,Harbin Institute of Technology,Department of Computer Science and Information Engineering
 2013,2,Spain,Technical University of Madrid,Department of Computer Science and Information Engineering
-2013,2,Canada,University of British Columbia,Department of Computer Science and Information Engineering
+2013,2,Canada,The University of British Columbia (UBC),Department of Computer Science and Information Engineering
 2013,1,China,Harbin Institute of Technology,Department of Computer Science and Information Engineering
 2013,1,Germany,University of Bonn,Department of Law
-2013,1,Canada,University of British Columbia,Department of Life Science
+2013,1,Canada,The University of British Columbia (UBC),Department of Life Science
 2013,2,Germany,Heidelberg University,Department of Life Science
-2013,1,Canada,University of British Columbia,Department of Life Science
+2013,1,Canada,The University of British Columbia (UBC),Department of Life Science
 2013,1,Germany,University of Tubingen,Department of Life Science
-2013,1,US,The University of North Carolina at Chapel Hill,Department of Life Science
+2013,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Life Science
 2013,2,Japan,Osaka University,Department of Life Science
 2013,2,US,University of California,Department of Electrical Engineering
 2013,2,US,University of California,Department of Mechanical Engineering
 2013,2,US,University of California,Department of Business Administration
-2013,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
-2013,1,US,University of Illinois at Urbana-Champaign,Department of Horticultural Science
+2013,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
+2013,1,US,University of Illinois at Urbana-Champaign (UIUC),Department of Horticultural Science
 2012,1,Netherlands,University of Groningen,Department of Bio-Industry Communication and Development
 2012,2,Japan,Keio University,Department of Chinese Literature
 2012,2,Germany,Heidelberg University,Department of Foreign Languages and Literatures
@@ -2680,7 +2680,7 @@ school_year,num_of_sems,country,university,department
 2012,2,Spain,Autonomous University of Barcelona,Department of Foreign Languages and Literatures
 2012,1,France,University Jean Moulin - Lyon 3,Department of Anthropology
 2012,1,Singapore,National University of Singapore,Department of Anthropology
-2012,2,US,The California State University,Department of Library and Information Science
+2012,2,US,The California State University (CSU),Department of Library and Information Science
 2012,1,China,Wuhan University,Department of Library and Information Science
 2012,2,Japan,University of the Ryukyus,Department of Japanese Language and Literature
 2012,2,Japan,Kansai University,Department of Japanese Language and Literature
@@ -2704,12 +2704,12 @@ school_year,num_of_sems,country,university,department
 2012,1,Germany,Ulm University,Department of Mathematics
 2012,1,Germany,Technical University of Munich,Department of Mathematics
 2012,2,Czechia,Masaryk University,Department of Chemistry
-2012,2,Canada,University of British Columbia,Department of Psychology
+2012,2,Canada,The University of British Columbia (UBC),Department of Psychology
 2012,1,Netherlands,Maastricht University,Department of Psychology
 2012,2,Japan,Tokyo Gakugei University,Department of Psychology
 2012,1,Japan,Akita International University,Department of Economics
 2012,1,Germany,Friedrich-Alexander - University Erlangen-Nurnberg,Department of Political Science
-2012,1,US,North Carolina State University,Department of Political Science
+2012,1,US,North Carolina State University (NC State),Department of Political Science
 2012,1,Latvia,University of Latvia,Department of Political Science
 2012,2,Japan,Hokkaido University,Department of Political Science
 2012,2,France,Sorbonne Paris North University,Department of Political Science
@@ -2723,7 +2723,7 @@ school_year,num_of_sems,country,university,department
 2012,2,Japan,Aoyama Gakuin University,Department of Political Science
 2012,1,China,Nanjing University,Department of Economics
 2012,2,Singapore,Singapore Management University,Department of Economics
-2012,1,Canada,University of British Columbia,Department of Economics
+2012,1,Canada,The University of British Columbia (UBC),Department of Economics
 2012,1,China,Peking University,Department of Economics
 2012,1,Turkey,Koç University,Department of Economics
 2012,2,France,University Jean Moulin - Lyon 3,Department of Economics
@@ -2736,7 +2736,7 @@ school_year,num_of_sems,country,university,department
 2012,1,Germany,University of Stuttgart,Department of Social Work
 2012,1,Canada,Queen's University,Department of Social Work
 2012,2,France,École Polytechnique,Department of Medicine
-2012,2,France,University Grenoble Alpes,Department of Civil Engineering
+2012,2,France,University Grenoble Alpes (UGA),Department of Civil Engineering
 2012,1,Japan,Tokyo Institute of Technology,Department of Mechanical Engineering
 2012,2,Spain,Technical University of Madrid,Department of Mechanical Engineering
 2012,2,US,University of California,Department of Mechanical Engineering
@@ -2749,8 +2749,8 @@ school_year,num_of_sems,country,university,department
 2012,1,China,Fudan University,Department of Agricultural Economics
 2012,1,China,Renmin University of China,Department of Agricultural Economics
 2012,1,China,Xi'an Jiaotong University,Department of Agricultural Economics
-2012,2,US,The California State University,Department of Business Administration
-2012,1,Canada,University of British Columbia,Department of Agricultural Economics
+2012,2,US,The California State University (CSU),Department of Business Administration
+2012,1,Canada,The University of British Columbia (UBC),Department of Agricultural Economics
 2012,1,Japan,Kyushu University,Department of Agricultural Economics
 2012,1,US,University of California,Department of Agricultural Economics
 2012,2,South Korea,Pusan National University,Department of Agricultural Economics
@@ -2786,7 +2786,7 @@ school_year,num_of_sems,country,university,department
 2012,1,Germany,University of Bonn,Department of Law
 2012,1,Netherlands,Leiden University,Department of Life Science
 2012,2,Germany,University of Freiburg,Department of Life Science
-2012,2,France,Sorbonne University,Department of Life Science
+2012,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Life Science
 2012,1,Germany,Ruhr-University Bochum,Department of Law
 2012,2,Japan,Osaka University,Department of Japanese Language and Literature
 2012,2,Japan,Tokyo University of Foreign Studies,Department of Foreign Languages and Literatures
@@ -2800,8 +2800,8 @@ school_year,num_of_sems,country,university,department
 2012,1,China,Peking University,Department of History
 2012,2,Germany,Ludwig Maximilian University of Munich,Department of History
 2012,1,Japan,University of Tsukuba,Department of History
-2012,1,US,University of Illinois at Chicago,Department of Philosophy
-2012,1,Canada,University of British Columbia,Department of Economics
+2012,1,US,University of Illinois at Chicago (UIC),Department of Philosophy
+2012,1,Canada,The University of British Columbia (UBC),Department of Economics
 2012,1,Japan,Kansai University,Department of Japanese Language and Literature
 2012,2,Japan,Osaka University,Department of Japanese Language and Literature
 2012,1,Japan,Doshisha University,Department of Japanese Language and Literature
@@ -2815,7 +2815,7 @@ school_year,num_of_sems,country,university,department
 2012,1,Australia,The University of New South Wales,Department of Geosciences
 2012,1,Singapore,Singapore Management University,Department of Geosciences
 2012,1,Japan,Doshisha University,Department of Psychology
-2012,2,France,University of Technology of Troyes,Department of Psychology
+2012,2,France,University of Technology of Troyes (UTT),Department of Psychology
 2012,1,Singapore,Nanyang Technological University,Department of Psychology
 2012,1,US,State University of New York at Albany,Department of Psychology
 2012,1,Germany,Humboldt-University Berlin,Department of Atmospheric Sciences
@@ -2836,7 +2836,7 @@ school_year,num_of_sems,country,university,department
 2012,1,Sweden,Umeå University,Department of Economics
 2012,1,Netherlands,Maastricht University,Department of Economics
 2012,1,US,University of California,Department of Economics
-2012,2,Canada,University of British Columbia,Department of Economics
+2012,2,Canada,The University of British Columbia (UBC),Department of Economics
 2012,2,Japan,University of Tsukuba,Department of Economics
 2012,1,Japan,Kyushu University,Department of Economics
 2012,1,Denmark,University of Copenhagen,Department of Economics
@@ -2858,7 +2858,7 @@ school_year,num_of_sems,country,university,department
 2012,1,Norway,University of Oslo,Department of Animal Science and Technology
 2012,1,Hong Kong,The Chinese University of Hong Kong,Department of Agricultural Economics
 2012,2,Japan,Hokkaido University,Department of Economics
-2012,2,US,North Carolina State University,Department of Bio-Industry Communication and Development
+2012,2,US,North Carolina State University (NC State),Department of Bio-Industry Communication and Development
 2012,1,China,Tsinghua University,Department of Bio-industrial Mechatronics Engineering
 2012,2,US,State University of New York at Albany,Department of Bio-industrial Mechatronics Engineering
 2012,1,Sweden,Uppsala University,Department of Business Administration
@@ -2869,8 +2869,8 @@ school_year,num_of_sems,country,university,department
 2012,2,South Korea,Ewha Womans University,Department of Accounting
 2012,2,Germany,University of Mannheim,Department of Finance
 2012,2,Hong Kong,The Chinese University of Hong Kong,Department of Finance
-2012,1,US,The California State University,Department of Finance
-2012,2,France,Institut d’Études Politiques de Paris,Department of Finance
+2012,1,US,The California State University (CSU),Department of Finance
+2012,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Finance
 2012,1,UK,University of Edinburgh,Department of Finance
 2012,1,South Korea,Sungkyunkwan University,Department of Finance
 2012,1,France,University Jean Moulin - Lyon 3,Department of Finance
@@ -2884,7 +2884,7 @@ school_year,num_of_sems,country,university,department
 2012,1,China,Zhejiang Univeristy,Department of International Business
 2012,2,UK,University of Edinburgh,Department of International Business
 2012,1,Netherlands,Maastricht University,Department of International Business
-2012,2,France,Institut d’Études Politiques de Paris,Department of International Business
+2012,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2012,1,China,Peking University,Department of Information Management
 2012,1,US,Temple University,Department of Electrical Engineering
 2012,1,France,EPF - Graduate School of Engineering,Department of Electrical Engineering
@@ -2895,7 +2895,7 @@ school_year,num_of_sems,country,university,department
 2012,2,France,University of Paris Ouest - Nanterre La Défense,Department of Foreign Languages and Literatures
 2012,1,UK,University of Southampton,Department of Foreign Languages and Literatures
 2012,1,UK,University of Edinburgh,Department of Foreign Languages and Literatures
-2012,1,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+2012,1,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 2012,2,US,The University of Oklahoma,Department of Foreign Languages and Literatures
 2012,1,Canada,University of Toronto,Department of Foreign Languages and Literatures
 2012,2,US,University of California,Department of Foreign Languages and Literatures
@@ -2922,7 +2922,7 @@ school_year,num_of_sems,country,university,department
 2012,1,Hong Kong,The Chinese University of Hong Kong,Department of Law
 2012,2,UK,University of Edinburgh,Department of Law
 2012,1,Australia,The University of Melbourne,Department of Law
-2012,1,Canada,University of British Columbia,Department of Law
+2012,1,Canada,The University of British Columbia (UBC),Department of Law
 2012,1,Australia,The Australian National University,Department of Law
 2012,2,US,University of California,Department of Mechanical Engineering
 2012,1,US,University of California,Department of Electrical Engineering
@@ -2945,7 +2945,7 @@ school_year,num_of_sems,country,university,department
 2011,2,China,Renmin University of China,Department of History
 2011,2,Japan,Doshisha University,Department of International Business
 2011,2,France,Lille Catholic University,Department of Medicine
-2011,2,US,North Carolina State University,Department of Business Administration
+2011,2,US,North Carolina State University (NC State),Department of Business Administration
 2011,1,UK,University of Southampton,Department of Foreign Languages and Literatures
 2011,2,Austria,Johannes Kepler University of Linz,Department of Economics
 2011,2,Japan,Hokkaido University,Department of Law
@@ -2958,17 +2958,17 @@ school_year,num_of_sems,country,university,department
 2011,2,Canada,Simon Fraser University (SFU),Department of Medicine
 2011,2,France,University of Paris Ouest - Nanterre La Défense,Department of Law
 2011,1,China,Shanghai Jiao Tong University,Department of Business Administration
-2011,2,US,University of Hawai‘i at Mānoa,Department of Agricultural Chemistry
+2011,2,US,University of Hawai‘i at Mānoa (UHM),Department of Agricultural Chemistry
 2011,1,US,University of California,Department of International Business
 2011,2,Japan,Waseda University,Department of Economics
 2011,1,China,Fudan University,Department of Information Management
 2011,1,China,Peking University,Department of Information Management
-2011,2,France,Sorbonne University,Department of Geography
+2011,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Geography
 2011,1,UK,University of Southampton,Department of Foreign Languages and Literatures
 2011,1,Sweden,Uppsala University,Department of Foreign Languages and Literatures
 2011,2,Spain,Autonomous University of Barcelona,Department of International Business
 2011,1,US,University of Pennsylvania,Department of Foreign Languages and Literatures
-2011,1,Canada,University of British Columbia,Department of Library and Information Science
+2011,1,Canada,The University of British Columbia (UBC),Department of Library and Information Science
 2011,1,South Korea,Seoul National University,Department of Occupational Therapy
 2011,1,Australia,Griffith University,Department of Business Administration
 2011,1,US,University of Pennsylvania,Department of Political Science
@@ -2999,7 +2999,7 @@ school_year,num_of_sems,country,university,department
 2011,1,US,University of California,Department of Library and Information Science
 2011,1,Netherlands,Utrecht University,Department of International Business
 2011,1,Sweden,Lund University,Department of Foreign Languages and Literatures
-2011,1,US,The University of Utah,Department of Agricultural Economics
+2011,1,US,The University of Utah (U of U),Department of Agricultural Economics
 2011,2,Japan,Hokkaido University,Department of Japanese Language and Literature
 2011,2,Japan,Tokyo Gakugei University,Department of Nursing
 2011,1,Netherlands,Maastricht University,Department of Psychology
@@ -3012,7 +3012,7 @@ school_year,num_of_sems,country,university,department
 2011,1,China,Zhejiang Univeristy,Department of History
 2011,2,Germany,Karlsruhe Institute of Technology,Department of Geography
 2011,1,China,Fudan University,Department of Bio-Industry Communication and Development
-2011,2,US,University of Hawai‘i at Hilo,Department of International Business
+2011,2,US,University of Hawai‘i at Hilo (UH Hilo),Department of International Business
 2011,1,Malaysia,University of Malaya,Department of Foreign Languages and Literatures
 2011,2,Japan,Akita International University,Department of International Business
 2011,2,Japan,Kyoto University,Department of Law
@@ -3027,7 +3027,7 @@ school_year,num_of_sems,country,university,department
 2011,1,Netherlands,Leiden University,Department of Mechanical Engineering
 2011,1,China,Tsinghua University,Department of Drama and Theatre
 2011,1,Singapore,Singapore Management University,Department of Foreign Languages and Literatures
-2011,2,US,University of Hawai‘i at Mānoa,Department of Forestry and Resource Conservation
+2011,2,US,University of Hawai‘i at Mānoa (UHM),Department of Forestry and Resource Conservation
 2011,2,Canada,Queen's University,Department of Medicine
 2011,1,Netherlands,University of Groningen,Department of Economics
 2011,2,Japan,University of Tsukuba,Department of International Business
@@ -3054,8 +3054,8 @@ school_year,num_of_sems,country,university,department
 2011,1,Germany,Ruhr-University Bochum,Department of Horticultural Science
 2011,1,US,University of California,Department of International Business
 2011,1,Japan,Kyushu University,Department of Foreign Languages and Literatures
-2011,1,US,The University of North Carolina at Chapel Hill,Department of Economics
-2011,1,US,University of Illinois at Chicago,Department of Business Administration
+2011,1,US,The University of North Carolina at Chapel Hill (UNC),Department of Economics
+2011,1,US,University of Illinois at Chicago (UIC),Department of Business Administration
 2011,1,Australia,The Australian National University,Department of Chemical Engineering
 2011,1,China,Fudan University,Department of Philosophy
 2011,1,China,Tsinghua University,Department of Horticultural Science
@@ -3065,7 +3065,7 @@ school_year,num_of_sems,country,university,department
 2011,2,Germany,University of Mannheim,Department of Geography
 2011,2,Germany,Free University of Berlin,Department of Foreign Languages and Literatures
 2011,1,Australia,Deakin University,Department of Computer Science and Information Engineering
-2011,2,US,Hawai‘i Pacific University,Department of Agricultural Economics
+2011,2,US,Hawai‘i Pacific University (HPU),Department of Agricultural Economics
 2011,1,China,Tsinghua University,Department of Information Management
 2011,1,China,Peking University,Department of Business Administration
 2011,2,France,Lille Catholic University,Department of Foreign Languages and Literatures
@@ -3073,13 +3073,13 @@ school_year,num_of_sems,country,university,department
 2011,1,China,Fudan University,Department of Information Management
 2011,1,US,University of California,Department of Foreign Languages and Literatures
 2011,1,China,Fudan University,Department of Geosciences
-2011,1,US,The University of Utah,Department of Electrical Engineering
+2011,1,US,The University of Utah (U of U),Department of Electrical Engineering
 2011,1,Japan,Kanagawa University,Department of Japanese Language and Literature
 2011,2,Japan,Tokyo Gakugei University,Department of History
 2011,1,Germany,Ulm University,Department of Mathematics
 2011,2,France,École normale supérieure Paris-Saclay,Department of International Business
 2011,2,Japan,Kyoto University,Department of Chemistry
-2011,1,US,The California State University,Department of Mechanical Engineering
+2011,1,US,The California State University (CSU),Department of Mechanical Engineering
 2011,2,Japan,Keio University,Department of Finance
 2011,1,Netherlands,Leiden University,Department of Business Administration
 2011,1,China,Peking University,Department of Agricultural Economics
@@ -3090,7 +3090,7 @@ school_year,num_of_sems,country,university,department
 2011,2,Japan,Soka University,Department of Japanese Language and Literature
 2011,1,Netherlands,Maastricht University,Department of Anthropology
 2011,2,US,University of California,Department of International Business
-2011,1,US,The California State University,Department of Business Administration
+2011,1,US,The California State University (CSU),Department of Business Administration
 2011,2,Hong Kong,The Chinese University of Hong Kong,Department of Economics
 2011,1,China,Peking University,Department of Bio-Industry Communication and Development
 2011,2,Japan,Kobe University,Department of Japanese Language and Literature
@@ -3107,10 +3107,10 @@ school_year,num_of_sems,country,university,department
 2011,1,China,Peking University,Department of International Business
 2011,1,US,Arizona State University,Department of Finance
 2011,2,South Korea,Pusan National University,Department of Forestry and Resource Conservation
-2011,2,France,Institut d’Études Politiques de Paris,Department of Chinese Literature
-2011,2,US,The California State University,Department of Political Science
+2011,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Chinese Literature
+2011,2,US,The California State University (CSU),Department of Political Science
 2011,1,US,University of Oregon,Department of Political Science
-2011,2,US,The California State University,Department of Finance
+2011,2,US,The California State University (CSU),Department of Finance
 2011,1,China,Nanjing University,Department of Library and Information Science
 2011,2,US,University of California,Department of Finance
 2011,1,US,University of California,Department of Finance
@@ -3147,14 +3147,14 @@ school_year,num_of_sems,country,university,department
 2011,1,US,University of California,Department of Foreign Languages and Literatures
 2011,1,Netherlands,Maastricht University,Department of Business Administration
 2011,2,Austria,Johannes Kepler University of Linz,Department of Political Science
-2011,2,France,Institut d’Études Politiques de Paris,Department of Economics
+2011,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Economics
 2011,1,Australia,Griffith University,Department of Accounting
 2011,1,US,University of Oregon,Department of Political Science
-2011,1,US,The California State University,Department of Sociology
+2011,1,US,The California State University (CSU),Department of Sociology
 2011,2,Spain,Autonomous University of Barcelona,Department of Foreign Languages and Literatures
 2011,2,Spain,Autonomous University of Barcelona,Department of Political Science
 2011,1,China,Tsinghua University,Department of Political Science
-2011,2,France,Sorbonne University,Department of Geosciences
+2011,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Geosciences
 2011,1,China,Fudan University,Department of Social Work
 2011,2,Germany,Ruhr-University Bochum,Department of Law
 2011,1,Spain,Technical University of Madrid,Department of Information Management
@@ -3168,19 +3168,19 @@ school_year,num_of_sems,country,university,department
 2011,2,Germany,RWTH Aachen University,Department of Electrical Engineering
 2011,2,Japan,Kyushu University,Department of Japanese Language and Literature
 2011,2,Japan,Kanagawa University,Department of Computer Science and Information Engineering
-2011,1,US,University of Illinois at Chicago,Department of Computer Science and Information Engineering
+2011,1,US,University of Illinois at Chicago (UIC),Department of Computer Science and Information Engineering
 2011,1,China,Shanghai Jiao Tong University,Department of Political Science
-2011,1,US,University of Hawai‘i at Hilo,Department of Business Administration
+2011,1,US,University of Hawai‘i at Hilo (UH Hilo),Department of Business Administration
 2011,1,Japan,Tokyo University of Foreign Studies,Department of Japanese Language and Literature
 2011,2,Czechia,Masaryk University,Department of Geosciences
 2011,1,China,Fudan University,Department of Foreign Languages and Literatures
 2011,1,Singapore,Nanyang Technological University,Department of Business Administration
 2011,2,US,University of Wisconsin-Madison,Department of Foreign Languages and Literatures
-2011,2,US,North Carolina State University,Department of Medicine
+2011,2,US,North Carolina State University (NC State),Department of Medicine
 2011,2,Germany,Heidelberg University,Department of Finance
 2011,2,US,University of Wisconsin-Madison,Department of Life Science
 2011,1,China,Fudan University,Department of Forestry and Resource Conservation
-2011,1,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+2011,1,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 2011,1,Japan,Doshisha University,Department of Japanese Language and Literature
 2011,2,Japan,Osaka University,Department of Japanese Language and Literature
 2011,2,France,University Jean Moulin - Lyon 3,Department of Law
@@ -3194,7 +3194,7 @@ school_year,num_of_sems,country,university,department
 2011,2,US,University of California,Department of Civil Engineering
 2011,2,US,University of California,Department of Chemical Engineering
 2011,2,US,University of California,Department of Electrical Engineering
-2011,2,US,The California State University,Department of Finance
+2011,2,US,The California State University (CSU),Department of Finance
 2011,1,Hong Kong,City University of Hong Kong,Department of Chinese Literature
 2010,1,Canada,Simon Fraser University (SFU),Department of Physics
 2010,2,China,Tsinghua University,Department of Business Administration
@@ -3217,11 +3217,11 @@ school_year,num_of_sems,country,university,department
 2010,2,Japan,Nagoya University,Department of Japanese Language and Literature
 2010,1,US,University of California,Department of Electrical Engineering
 2010,1,Japan,Sophia University,Department of Japanese Language and Literature
-2010,1,US,University of Hawai‘i at Hilo,Department of International Business
+2010,1,US,University of Hawai‘i at Hilo (UH Hilo),Department of International Business
 2010,1,China,Xi'an Jiaotong University,Department of Business Administration
 2010,2,Germany,Technical University of Berlin,Department of Medicine
 2010,1,China,Dalian University of Technology,Department of Political Science
-2010,2,Ireland,Trinity College Dublin,Department of Agricultural Economics
+2010,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Agricultural Economics
 2010,2,Japan,Aoyama Gakuin University,Department of Japanese Language and Literature
 2010,2,US,University of California,Department of Political Science
 2010,1,Sweden,Lund University,Department of Business Administration
@@ -3236,14 +3236,14 @@ school_year,num_of_sems,country,university,department
 2010,2,Germany,Ludwig Maximilian University of Munich,Department of Foreign Languages and Literatures
 2010,1,Hong Kong,City University of Hong Kong,Department of Economics
 2010,2,France,University Jean Moulin - Lyon 3,Department of Foreign Languages and Literatures
-2010,2,US,North Carolina State University,Department of Occupational Therapy
+2010,2,US,North Carolina State University (NC State),Department of Occupational Therapy
 2010,1,Japan,Kyushu University,Department of Physics
 2010,2,Japan,Kyushu University,Department of Japanese Language and Literature
-2010,1,US,University of Hawai‘i at Hilo,Department of Electrical Engineering
+2010,1,US,University of Hawai‘i at Hilo (UH Hilo),Department of Electrical Engineering
 2010,1,China,Tsinghua University,Department of Biochemical Science and Technology
-2010,1,US,University of Hawai‘i at Hilo,Department of Economics
+2010,1,US,University of Hawai‘i at Hilo (UH Hilo),Department of Economics
 2010,2,Japan,Osaka University,Department of Japanese Language and Literature
-2010,2,US,North Carolina State University,Department of Finance
+2010,2,US,North Carolina State University (NC State),Department of Finance
 2010,1,Singapore,National University of Singapore,Department of International Business
 2010,1,US,University of California,Department of Information Management
 2010,1,Hong Kong,The Chinese University of Hong Kong,Department of International Business
@@ -3282,13 +3282,13 @@ school_year,num_of_sems,country,university,department
 2010,1,US,University of California,Department of Finance
 2010,1,China,Peking University,Department of Finance
 2010,1,China,Fudan University,Department of Finance
-2010,1,US,North Carolina State University,Department of Finance
+2010,1,US,North Carolina State University (NC State),Department of Finance
 2010,2,Australia,The Australian National University,Department of Finance
 2010,1,China,Fudan University,Department of Finance
 2010,2,Germany,University of Mannheim,Department of Finance
 2010,1,China,Tsinghua University,Department of Finance
 2010,1,Japan,Akita International University,Department of Accounting
-2010,1,US,University of Maryland,Department of Business Administration
+2010,1,US,University of Maryland (UMD),Department of Business Administration
 2010,2,Australia,The University of Melbourne,Department of Plant Pathology and Microbiology
 2010,1,US,University of Wisconsin-Madison,Department of Materials Science and Engineering
 2010,1,US,University of Oregon,Department of Psychology
@@ -3316,10 +3316,10 @@ school_year,num_of_sems,country,university,department
 2010,1,China,Nanjing University,Department of Chinese Literature
 2010,2,Germany,Free University of Berlin,Department of Life Science
 2010,1,Sweden,Uppsala University,Department of Social Work
-2010,2,US,UC Santa Barbara,Department of Computer Science and Information Engineering
+2010,2,US,"University of California, Santa Barbara",Department of Computer Science and Information Engineering
 2010,1,UK,University of Edinburgh,Department of Electrical Engineering
-2010,2,US,The University of Utah,Department of Electrical Engineering
-2010,2,US,University of Illinois at Urbana-Champaign,Department of Electrical Engineering
+2010,2,US,The University of Utah (U of U),Department of Electrical Engineering
+2010,2,US,University of Illinois at Urbana-Champaign (UIUC),Department of Electrical Engineering
 2010,2,France,École Polytechnique,Department of Electrical Engineering
 2010,1,Sweden,Lund University,Department of Electrical Engineering
 2010,1,China,Tsinghua University,Department of Information Management
@@ -3330,17 +3330,17 @@ school_year,num_of_sems,country,university,department
 2010,1,Singapore,Singapore Management University,Department of International Business
 2010,1,Sweden,Linköping University,Department of Finance
 2010,1,Singapore,Singapore Management University,Department of Finance
-2010,2,US,The California State University,Department of Finance
+2010,2,US,The California State University (CSU),Department of Finance
 2010,1,Latvia,University of Latvia,Department of Finance
 2010,1,Spain,Autonomous University of Barcelona,Department of Finance
 2010,1,Spain,Autonomous University of Barcelona,Department of Finance
 2010,2,US,State University of New York at Albany,Department of Business Administration
-2010,1,US,University of Hawai‘i at Hilo,Department of Business Administration
+2010,1,US,University of Hawai‘i at Hilo (UH Hilo),Department of Business Administration
 2010,1,Netherlands,University of Groningen,Department of Business Administration
 2010,1,US,University of California,Department of Business Administration
 2010,1,US,Temple University,Department of Business Administration
 2010,2,France,École normale supérieure Paris-Saclay,Department of Business Administration
-2010,1,US,North Carolina State University,Department of Business Administration
+2010,1,US,North Carolina State University (NC State),Department of Business Administration
 2010,2,Sweden,Umeå University,Department of Life Science
 2010,2,Germany,Technical University of Berlin,Department of Civil Engineering
 2010,2,Latvia,University of Latvia,Department of Nursing
@@ -3384,8 +3384,8 @@ school_year,num_of_sems,country,university,department
 2010,2,Germany,TU Dortmund University,Department of Foreign Languages and Literatures
 2010,1,Japan,Tokyo Gakugei University,Department of Foreign Languages and Literatures
 2010,2,Japan,Kansai University,Department of Foreign Languages and Literatures
-2010,1,US,The California State University,Department of Foreign Languages and Literatures
-2010,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2010,1,US,The California State University (CSU),Department of Foreign Languages and Literatures
+2010,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2010,1,UK,University of Manchester,Department of Foreign Languages and Literatures
 2010,2,Canada,Queen's University,Department of Foreign Languages and Literatures
 2010,2,Japan,Tokyo Gakugei University,Department of Foreign Languages and Literatures
@@ -3403,15 +3403,15 @@ school_year,num_of_sems,country,university,department
 2010,1,Japan,Kobe University,Department of Electrical Engineering
 2010,2,France,University of Paris Ouest - Nanterre La Défense,Department of Chinese Literature
 2010,1,Netherlands,Maastricht University,Department of Business Administration
-2010,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2010,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2010,2,Japan,Waseda University,Department of Foreign Languages and Literatures
 2010,1,Switzerland,University of St. Gallen,Department of International Business
-2010,1,US,The California State University,Department of Library and Information Science
+2010,1,US,The California State University (CSU),Department of Library and Information Science
 2010,1,Germany,University of Bonn,Department of Finance
 2010,2,France,EPF - Graduate School of Engineering,Department of Mechanical Engineering
 2010,1,Japan,University of Tsukuba,Department of International Business
 2010,2,Finland,University of Helsinki,Department of Law
-2010,2,US,Hawai‘i Pacific University,Department of Foreign Languages and Literatures
+2010,2,US,Hawai‘i Pacific University (HPU),Department of Foreign Languages and Literatures
 2010,2,Switzerland,University of St. Gallen,Department of Law
 2010,2,US,University of California,Department of Finance
 2010,2,Germany,Heidelberg University,Department of Political Science
@@ -3419,20 +3419,20 @@ school_year,num_of_sems,country,university,department
 2010,2,Australia,Griffith University,Department of History
 2009,2,Japan,Doshisha University,Department of Japanese Language and Literature
 2009,2,Japan,Doshisha University,Department of Japanese Language and Literature
-2009,2,US,UC Santa Barbara,Department of Mechanical Engineering
+2009,2,US,"University of California, Santa Barbara",Department of Mechanical Engineering
 2009,1,Hong Kong,The Chinese University of Hong Kong,Department of Sociology
-2009,2,US,UC Santa Barbara,Department of Electrical Engineering
+2009,2,US,"University of California, Santa Barbara",Department of Electrical Engineering
 2009,2,Hong Kong,City University of Hong Kong,Department of Finance
 2009,2,US,University of California,Department of Economics
 2009,1,Germany,Technical University of Munich,Department of Physics
 2009,2,US,University of Oregon,Department of Finance
 2009,1,China,Peking University,Department of Foreign Languages and Literatures
 2009,2,Japan,Kyoto University,Department of Economics
-2009,2,US,University of Illinois at Chicago,Department of International Business
-2009,2,France,Sorbonne University,Department of Atmospheric Sciences
+2009,2,US,University of Illinois at Chicago (UIC),Department of International Business
+2009,2,France,Sorbonne University ( University Pierre and Marie CURIE ),Department of Atmospheric Sciences
 2009,2,Japan,Tokyo University of Foreign Studies,Department of Foreign Languages and Literatures
-2009,2,US,The California State University,Department of Business Administration
-2009,2,US,University of Hawai‘i at Hilo,Department of Finance
+2009,2,US,The California State University (CSU),Department of Business Administration
+2009,2,US,University of Hawai‘i at Hilo (UH Hilo),Department of Finance
 2009,2,Japan,Akita International University,Department of Japanese Language and Literature
 2009,1,China,Peking University,Department of International Business
 2009,2,Germany,Free University of Berlin,Department of Foreign Languages and Literatures
@@ -3442,14 +3442,14 @@ school_year,num_of_sems,country,university,department
 2009,2,US,University of California,Department of Biochemical Science and Technology
 2009,1,South Korea,Seoul National University,Department of International Business
 2009,2,Germany,University of Bonn,Department of Psychology
-2009,2,US,UC Santa Barbara,Department of Computer Science and Information Engineering
+2009,2,US,"University of California, Santa Barbara",Department of Computer Science and Information Engineering
 2009,1,China,Peking University,Department of International Business
 2009,2,Germany,University of Hamburg,Department of Economics
 2009,2,Japan,Tokyo Gakugei University,Department of Japanese Language and Literature
 2009,2,Japan,University of Tsukuba,Department of Political Science
 2009,2,France,University Jean Moulin - Lyon 3,Department of Foreign Languages and Literatures
 2009,2,Singapore,National University of Singapore,Department of Electrical Engineering
-2009,1,South Korea,Pohang University of Science and Technology,Department of Finance
+2009,1,South Korea,Pohang University of Science and Technology (POSTECH),Department of Finance
 2009,2,Singapore,Singapore Management University,Department of Business Administration
 2009,2,Australia,The University of New South Wales,Department of Animal Science and Technology
 2009,2,Hong Kong,The Chinese University of Hong Kong,Department of Japanese Language and Literature
@@ -3458,7 +3458,7 @@ school_year,num_of_sems,country,university,department
 2009,2,US,University of California,Department of Business Administration
 2009,2,UK,University of Sussex,Department of Foreign Languages and Literatures
 2009,2,US,University of California,Department of Foreign Languages and Literatures
-2009,2,US,University of Hawai‘i at Hilo,Department of Biochemical Science and Technology
+2009,2,US,University of Hawai‘i at Hilo (UH Hilo),Department of Biochemical Science and Technology
 2009,1,Singapore,Nanyang Technological University,Department of Biochemical Science and Technology
 2009,2,Japan,University of Tsukuba,Department of Computer Science and Information Engineering
 2009,2,US,University of Washington,Department of Finance
@@ -3480,7 +3480,7 @@ school_year,num_of_sems,country,university,department
 2009,2,UK,University of Manchester,Department of Finance
 2009,2,Canada,University of Toronto,Department of Business Administration
 2009,2,Germany,Ulm University,Department of Agricultural Economics
-2009,2,US,North Carolina State University,Department of Public Health
+2009,2,US,North Carolina State University (NC State),Department of Public Health
 2009,2,Japan,Tohoku University,Department of Physics
 2009,2,Sweden,Lund University,Department of Social Work
 2009,2,US,University of California,Department of Economics
@@ -3493,7 +3493,7 @@ school_year,num_of_sems,country,university,department
 2009,1,US,University of California,Department of Foreign Languages and Literatures
 2009,2,France,University Jean Moulin - Lyon 3,Department of Foreign Languages and Literatures
 2009,2,US,University of Pennsylvania,Department of Foreign Languages and Literatures
-2009,2,US,The California State University,Department of Foreign Languages and Literatures
+2009,2,US,The California State University (CSU),Department of Foreign Languages and Literatures
 2009,2,US,University of California,Department of Life Science
 2009,2,Japan,Keio University,Department of Electrical Engineering
 2009,2,US,University of Oregon,Department of Electrical Engineering
@@ -3505,13 +3505,13 @@ school_year,num_of_sems,country,university,department
 2009,1,Hong Kong,City University of Hong Kong,Department of International Business
 2009,2,Japan,Tokyo University of Foreign Studies,Department of International Business
 2009,2,Netherlands,University of Groningen,Department of Finance
-2009,1,US,The California State University,Department of Finance
+2009,1,US,The California State University (CSU),Department of Finance
 2009,2,China,Tsinghua University,Department of Finance
 2009,1,China,Fudan University,Department of Business Administration
 2009,2,Singapore,Singapore Management University,Department of Finance
 2009,2,China,Fudan University,Department of Business Administration
-2009,2,US,The California State University,Department of Agricultural Economics
-2009,1,US,The California State University,Department of Forestry and Resource Conservation
+2009,2,US,The California State University (CSU),Department of Agricultural Economics
+2009,1,US,The California State University (CSU),Department of Forestry and Resource Conservation
 2009,2,Sweden,Uppsala University,Department of Chemical Engineering
 2009,2,Norway,University of Oslo,Department of Mechanical Engineering
 2009,2,Netherlands,Maastricht University,Department of Sociology
@@ -3537,13 +3537,13 @@ school_year,num_of_sems,country,university,department
 2009,2,Austria,Johannes Kepler University of Linz,Department of Library and Information Science
 2009,2,Japan,Hokkaido University,Department of Anthropology
 2009,2,Austria,Johannes Kepler University of Linz,Department of History
-2009,1,France,University of Technology of Troyes,Department of Foreign Languages and Literatures
+2009,1,France,University of Technology of Troyes (UTT),Department of Foreign Languages and Literatures
 2009,2,US,University of California,Department of Foreign Languages and Literatures
-2009,2,US,The University of Utah,Department of Foreign Languages and Literatures
+2009,2,US,The University of Utah (U of U),Department of Foreign Languages and Literatures
 2009,2,UK,University of Sussex,Department of Foreign Languages and Literatures
 2009,1,France,University Jean Moulin - Lyon 3,Department of Foreign Languages and Literatures
-2009,2,France,University of Technology of Troyes,Department of Foreign Languages and Literatures
-2009,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
+2009,2,France,University of Technology of Troyes (UTT),Department of Foreign Languages and Literatures
+2009,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
 2009,2,Japan,Tokyo Gakugei University,Department of Foreign Languages and Literatures
 2009,2,Denmark,University of Copenhagen,Department of Law
 2009,2,US,University of California,Department of Business Administration
@@ -3572,8 +3572,8 @@ school_year,num_of_sems,country,university,department
 2008,2,Spain,Autonomous University of Barcelona,Department of Political Science
 2008,2,Spain,Autonomous University of Barcelona,Department of Finance
 2008,2,Spain,Autonomous University of Barcelona,Department of Philosophy
-2008,2,France,Institut d’Études Politiques de Paris,Department of Foreign Languages and Literatures
-2008,2,France,Institut d’Études Politiques de Paris,Department of Political Science
+2008,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Foreign Languages and Literatures
+2008,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of Political Science
 2008,2,Belgium,Université Libre de Bruxelles,Department of Foreign Languages and Literatures
 2008,2,Belgium,Université Libre de Bruxelles,Department of Foreign Languages and Literatures
 2008,2,US,University of California,Department of Physics
@@ -3583,9 +3583,9 @@ school_year,num_of_sems,country,university,department
 2008,2,US,University of California,Department of Accounting
 2008,2,US,University of California,Department of Medicine
 2008,2,US,University of California,Department of Mathematics
-2008,2,US,The California State University,Department of Foreign Languages and Literatures
-2008,2,US,The California State University,Department of Biochemical Science and Technology
-2008,2,US,The California State University,Department of Electrical Engineering
+2008,2,US,The California State University (CSU),Department of Foreign Languages and Literatures
+2008,2,US,The California State University (CSU),Department of Biochemical Science and Technology
+2008,2,US,The California State University (CSU),Department of Electrical Engineering
 2008,2,Japan,Hokkaido University,Department of Political Science
 2008,2,Japan,Hokkaido University,Department of Japanese Language and Literature
 2008,2,Japan,Hokkaido University,Department of Agricultural Chemistry
@@ -3622,16 +3622,16 @@ school_year,num_of_sems,country,university,department
 2008,1,Hong Kong,The Chinese University of Hong Kong,Department of International Business
 2008,1,Hong Kong,City University of Hong Kong,Department of International Business
 2008,2,Hong Kong,City University of Hong Kong,Department of Economics
-2008,1,South Korea,Pohang University of Science and Technology,Department of Physics
+2008,1,South Korea,Pohang University of Science and Technology (POSTECH),Department of Physics
 2008,2,Germany,Heidelberg University,Department of Economics
 2008,2,Germany,Heidelberg University,Department of Agricultural Economics
 2008,2,Germany,Heidelberg University,Department of Economics
 2008,2,Netherlands,Utrecht University,Department of Foreign Languages and Literatures
 2008,2,Netherlands,Utrecht University,Department of Horticultural Science
-2008,2,France,University of Technology of Troyes,Department of Political Science
-2008,2,France,University of Technology of Troyes,Department of Japanese Language and Literature
-2008,2,France,University of Technology of Troyes,Department of Accounting
-2008,2,France,University of Technology of Troyes,Department of Political Science
+2008,2,France,University of Technology of Troyes (UTT),Department of Political Science
+2008,2,France,University of Technology of Troyes (UTT),Department of Japanese Language and Literature
+2008,2,France,University of Technology of Troyes (UTT),Department of Accounting
+2008,2,France,University of Technology of Troyes (UTT),Department of Political Science
 2008,2,Japan,University of the Ryukyus,Department of Political Science
 2008,2,Japan,University of the Ryukyus,Department of Foreign Languages and Literatures
 2008,2,Japan,University of the Ryukyus,Department of Japanese Language and Literature
@@ -3646,7 +3646,7 @@ school_year,num_of_sems,country,university,department
 2008,2,Japan,Akita International University,Department of Japanese Language and Literature
 2008,2,Japan,Akita International University,Department of Japanese Language and Literature
 2008,2,Japan,Akita International University,Department of Japanese Language and Literature
-2008,2,Ireland,Trinity College Dublin,Department of Political Science
+2008,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Political Science
 2008,2,Japan,Soka University,Department of Japanese Language and Literature
 2008,2,Sweden,Stockholm University,Department of Foreign Languages and Literatures
 2008,2,Sweden,Stockholm University,Department of Social Work
@@ -3681,7 +3681,7 @@ school_year,num_of_sems,country,university,department
 2008,2,Germany,Friedrich-Alexander - University Erlangen-Nurnberg,Department of Political Science
 2008,2,Germany,University of Tubingen,Department of Medicine
 2007,2,Japan,Kyushu University,Department of Japanese Language and Literature
-2007,2,France,Institut d’Études Politiques de Paris,Department of International Business
+2007,2,France,Institut d’Études Politiques de Paris (Sciences Po),Department of International Business
 2007,2,France,École Polytechnique,Department of Economics
 2007,2,Belgium,Université Libre de Bruxelles,Department of Economics
 2007,2,Belgium,Université Libre de Bruxelles,Department of Economics
@@ -3693,9 +3693,9 @@ school_year,num_of_sems,country,university,department
 2007,2,US,University of California,Department of Medicine
 2007,2,US,University of California,Department of Horticultural Science
 2007,2,US,University of California,Department of International Business
-2007,2,US,The California State University,Department of Foreign Languages and Literatures
-2007,2,US,The California State University,Department of International Business
-2007,2,US,The California State University,Department of Chinese Literature
+2007,2,US,The California State University (CSU),Department of Foreign Languages and Literatures
+2007,2,US,The California State University (CSU),Department of International Business
+2007,2,US,The California State University (CSU),Department of Chinese Literature
 2007,2,Japan,Hokkaido University,Department of Library and Information Science
 2007,2,Japan,Hokkaido University,Department of International Business
 2007,2,Japan,Hokkaido University,Department of Japanese Language and Literature
@@ -3703,7 +3703,7 @@ school_year,num_of_sems,country,university,department
 2007,2,Germany,Karlsruhe Institute of Technology,Department of Foreign Languages and Literatures
 2007,2,Germany,Karlsruhe Institute of Technology,Department of Political Science
 2007,2,Germany,Karlsruhe Institute of Technology,Department of Chinese Literature
-2007,2,US,University of Illinois at Chicago,Department of Psychology
+2007,2,US,University of Illinois at Chicago (UIC),Department of Psychology
 2007,2,Germany,TU Dortmund University,Department of Physics
 2007,2,Germany,TU Dortmund University,Department of History
 2007,2,Japan,Waseda University,Department of Japanese Language and Literature
@@ -3735,7 +3735,7 @@ school_year,num_of_sems,country,university,department
 2007,2,Germany,University of Bonn,Department of Foreign Languages and Literatures
 2007,2,UK,University of Southampton,Department of Foreign Languages and Literatures
 2007,2,Germany,Free University of Berlin,Department of Law
-2007,2,France,University Grenoble Alpes,Department of Physics
+2007,2,France,University Grenoble Alpes (UGA),Department of Physics
 2007,2,South Korea,Seoul National University,Department of Political Science
 2007,2,Hong Kong,The Chinese University of Hong Kong,Department of Political Science
 2007,2,Hong Kong,The Chinese University of Hong Kong,Department of Nursing
@@ -3752,8 +3752,8 @@ school_year,num_of_sems,country,university,department
 2007,2,Japan,University of the Ryukyus,Department of Japanese Language and Literature
 2007,2,Japan,University of the Ryukyus,Department of Electrical Engineering
 2007,2,Japan,University of the Ryukyus,Department of Foreign Languages and Literatures
-2007,2,US,University of Maryland,Department of Finance
-2007,2,US,University of Maryland,Department of Foreign Languages and Literatures
+2007,2,US,University of Maryland (UMD),Department of Finance
+2007,2,US,University of Maryland (UMD),Department of Foreign Languages and Literatures
 2007,2,Australia,Macquarie University,Department of Life Science
 2007,2,Netherlands,Maastricht University,Department of International Business
 2007,2,Netherlands,Maastricht University,Department of Economics
@@ -3763,8 +3763,8 @@ school_year,num_of_sems,country,university,department
 2007,2,Japan,Akita International University,Department of Japanese Language and Literature
 2007,2,Japan,Akita International University,Department of Japanese Language and Literature
 2007,2,Japan,Akita International University,Department of International Business
-2007,2,Ireland,Trinity College Dublin,Department of Business Administration
-2007,2,Ireland,Trinity College Dublin,Department of Psychology
+2007,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Business Administration
+2007,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Psychology
 2007,2,Japan,Soka University,Department of Japanese Language and Literature
 2007,2,US,University of Georgia,Department of International Business
 2007,2,US,University of Georgia,Department of Psychology
@@ -3816,9 +3816,9 @@ school_year,num_of_sems,country,university,department
 2006,2,US,University of California,Department of Information Management
 2006,2,US,University of California,Department of Electrical Engineering
 2006,2,US,University of California,Department of Materials Science and Engineering
-2006,2,US,The California State University,Department of Bio-industrial Mechatronics Engineering
-2006,2,US,The California State University,Department of Accounting
-2006,2,US,The California State University,Department of Foreign Languages and Literatures
+2006,2,US,The California State University (CSU),Department of Bio-industrial Mechatronics Engineering
+2006,2,US,The California State University (CSU),Department of Accounting
+2006,2,US,The California State University (CSU),Department of Foreign Languages and Literatures
 2006,2,Japan,Hokkaido University,Department of Japanese Language and Literature
 2006,2,Japan,Hokkaido University,Department of Foreign Languages and Literatures
 2006,2,Japan,Hokkaido University,Department of Political Science
@@ -3851,16 +3851,16 @@ school_year,num_of_sems,country,university,department
 2006,2,UK,University of Southampton,Department of Foreign Languages and Literatures
 2006,1,Singapore,Nanyang Technological University,Department of International Business
 2006,1,Singapore,Nanyang Technological University,Department of Materials Science and Engineering
-2006,2,France,University Grenoble Alpes,Department of Electrical Engineering
-2006,2,Canada,University of British Columbia,Department of Psychology
-2006,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+2006,2,France,University Grenoble Alpes (UGA),Department of Electrical Engineering
+2006,2,Canada,The University of British Columbia (UBC),Department of Psychology
+2006,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 2006,2,Hong Kong,The Chinese University of Hong Kong,Department of Foreign Languages and Literatures
 2006,2,Hong Kong,The Chinese University of Hong Kong,Department of History
 2006,1,Hong Kong,The Chinese University of Hong Kong,Department of Law
 2006,2,Denmark,University of Copenhagen,Department of Foreign Languages and Literatures
 2006,2,Denmark,University of Copenhagen,Department of Finance
-2006,1,South Korea,Pohang University of Science and Technology,Department of Psychology
-2006,1,South Korea,Pohang University of Science and Technology,Department of Chemistry
+2006,1,South Korea,Pohang University of Science and Technology (POSTECH),Department of Psychology
+2006,1,South Korea,Pohang University of Science and Technology (POSTECH),Department of Chemistry
 2006,2,Germany,Heidelberg University,Department of Horticultural Science
 2006,2,Germany,Heidelberg University,Department of Foreign Languages and Literatures
 2006,2,Germany,Heidelberg University,Department of Political Science
@@ -3868,8 +3868,8 @@ school_year,num_of_sems,country,university,department
 2006,2,Japan,University of the Ryukyus,Department of Foreign Languages and Literatures
 2006,2,Japan,University of the Ryukyus,Department of Japanese Language and Literature
 2006,2,Japan,University of the Ryukyus,Department of Japanese Language and Literature
-2006,2,US,University of Maryland,Department of International Business
-2006,2,US,University of Maryland,Department of Foreign Languages and Literatures
+2006,2,US,University of Maryland (UMD),Department of International Business
+2006,2,US,University of Maryland (UMD),Department of Foreign Languages and Literatures
 2006,2,Australia,Macquarie University,Department of International Business
 2006,2,France,École Polytechnique,Department of Electrical Engineering
 2006,2,France,École Polytechnique,Department of Horticultural Science
@@ -3880,8 +3880,8 @@ school_year,num_of_sems,country,university,department
 2006,2,Japan,Akita International University,Department of Japanese Language and Literature
 2006,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
 2006,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
-2006,2,Ireland,Trinity College Dublin,Department of Social Work
-2006,2,Ireland,Trinity College Dublin,Department of Business Administration
+2006,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Social Work
+2006,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Business Administration
 2006,2,Japan,Soka University,Department of Japanese Language and Literature
 2006,2,US,University of Georgia,Department of International Business
 2006,2,US,University of Georgia,Department of Social Work
@@ -3927,8 +3927,8 @@ school_year,num_of_sems,country,university,department
 2005,2,US,University of California,Department of Electrical Engineering
 2005,2,US,University of California,Department of Electrical Engineering
 2005,2,US,University of California,Department of Physics
-2005,2,US,The California State University,Department of Foreign Languages and Literatures
-2005,2,US,The California State University,Department of Political Science
+2005,2,US,The California State University (CSU),Department of Foreign Languages and Literatures
+2005,2,US,The California State University (CSU),Department of Political Science
 2005,2,Canada,University of Toronto,Department of Bioenvironmental Systems Engineering
 2005,2,Japan,Waseda University,Department of Japanese Language and Literature
 2005,2,Japan,Waseda University,Department of Japanese Language and Literature
@@ -3947,15 +3947,15 @@ school_year,num_of_sems,country,university,department
 2005,2,Singapore,Nanyang Technological University,Department of Economics
 2005,2,Germany,Free University of Berlin,Department of Economics
 2005,2,Germany,Free University of Berlin,Department of Foreign Languages and Literatures
-2005,2,France,University Grenoble Alpes,Department of International Business
-2005,2,France,University Grenoble Alpes,Department of International Business
-2005,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+2005,2,France,University Grenoble Alpes (UGA),Department of International Business
+2005,2,France,University Grenoble Alpes (UGA),Department of International Business
+2005,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 2005,2,Hong Kong,The Chinese University of Hong Kong,Department of International Business
 2005,1,Hong Kong,The Chinese University of Hong Kong,Department of Accounting
 2005,2,Hong Kong,The Chinese University of Hong Kong,Department of International Business
 2005,1,Hong Kong,The Chinese University of Hong Kong,Department of Economics
 2005,2,Denmark,University of Copenhagen,Department of International Business
-2005,2,South Korea,Pohang University of Science and Technology,Department of Engineering Science and Ocean Engineering
+2005,2,South Korea,Pohang University of Science and Technology (POSTECH),Department of Engineering Science and Ocean Engineering
 2005,2,Germany,Heidelberg University,Department of Economics
 2005,2,Germany,Heidelberg University,Department of Sociology
 2005,2,Germany,Heidelberg University,Department of Political Science
@@ -3965,8 +3965,8 @@ school_year,num_of_sems,country,university,department
 2005,2,Japan,University of the Ryukyus,Department of Political Science
 2005,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
 2005,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
-2005,2,Ireland,Trinity College Dublin,Department of Sociology
-2005,2,Ireland,Trinity College Dublin,Department of History
+2005,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Sociology
+2005,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of History
 2005,2,Japan,Soka University,Department of Japanese Language and Literature
 2005,2,US,University of Georgia,Department of Business Administration
 2005,2,US,University of Georgia,Department of International Business
@@ -3992,7 +3992,7 @@ school_year,num_of_sems,country,university,department
 2005,2,Japan,Keio University,Department of Japanese Language and Literature
 2005,2,Japan,Kansai University,Department of Japanese Language and Literature
 2005,2,Japan,Kansai University,Department of Library and Information Science
-2005,2,US,University of Hawai‘i at Mānoa,Department of Physics
+2005,2,US,University of Hawai‘i at Mānoa (UHM),Department of Physics
 2005,2,South Korea,Seoul National University,Department of Computer Science and Information Engineering
 2004,2,Japan,Kyushu University,Department of Medicine
 2004,2,Japan,Kyushu University,Department of Japanese Language and Literature
@@ -4003,9 +4003,9 @@ school_year,num_of_sems,country,university,department
 2004,2,US,University of California,Department of Accounting
 2004,2,US,University of California,Department of Foreign Languages and Literatures
 2004,2,US,University of California,Department of Foreign Languages and Literatures
-2004,2,US,The California State University,Department of Business Administration
-2004,2,US,The California State University,Department of Mechanical Engineering
-2004,2,US,The California State University,Department of Sociology
+2004,2,US,The California State University (CSU),Department of Business Administration
+2004,2,US,The California State University (CSU),Department of Mechanical Engineering
+2004,2,US,The California State University (CSU),Department of Sociology
 2004,2,Australia,Deakin University,Department of Foreign Languages and Literatures
 2004,2,Australia,Deakin University,Department of Foreign Languages and Literatures
 2004,2,Canada,University of Toronto,Department of International Business
@@ -4028,9 +4028,9 @@ school_year,num_of_sems,country,university,department
 2004,2,Austria,Johannes Kepler University of Linz,Department of Business Administration
 2004,1,Singapore,Nanyang Technological University,Department of Business Administration
 2004,2,Singapore,Nanyang Technological University,Department of Finance
-2004,2,France,University Grenoble Alpes,Department of Foreign Languages and Literatures
-2004,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
-2004,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+2004,2,France,University Grenoble Alpes (UGA),Department of Foreign Languages and Literatures
+2004,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
+2004,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 2004,2,Hong Kong,The Chinese University of Hong Kong,Department of International Business
 2004,2,Hong Kong,The Chinese University of Hong Kong,Department of Business Administration
 2004,2,Hong Kong,The Chinese University of Hong Kong,Department of Political Science
@@ -4042,7 +4042,7 @@ school_year,num_of_sems,country,university,department
 2004,2,Japan,University of the Ryukyus,Department of Political Science
 2004,2,Japan,University of the Ryukyus,Department of Chinese Literature
 2004,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
-2004,2,Ireland,Trinity College Dublin,Department of Foreign Languages and Literatures
+2004,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Foreign Languages and Literatures
 2004,2,Japan,Soka University,Department of Japanese Language and Literature
 2004,2,Japan,Soka University,Department of Japanese Language and Literature
 2004,2,Netherlands,Tilburg University,Department of International Business
@@ -4068,7 +4068,7 @@ school_year,num_of_sems,country,university,department
 2004,2,Japan,Kansai University,Department of Japanese Language and Literature
 2004,2,Japan,Kansai University,Department of Japanese Language and Literature
 2004,2,Germany,Free University of Berlin,Department of Political Science
-2004,2,US,University of Hawai‘i at Mānoa,Department of Foreign Languages and Literatures
+2004,2,US,University of Hawai‘i at Mānoa (UHM),Department of Foreign Languages and Literatures
 2004,2,South Korea,Seoul National University,Department of Life Science
 2003,2,Japan,Kyushu University,Department of Japanese Language and Literature
 2003,2,Japan,Kyushu University,Department of Horticultural Science
@@ -4078,11 +4078,11 @@ school_year,num_of_sems,country,university,department
 2003,2,US,University of California,Department of Finance
 2003,2,US,University of California,Department of Computer Science and Information Engineering
 2003,2,US,University of California,Department of Psychology
-2003,2,US,The California State University,Department of Political Science
-2003,2,US,The California State University,Department of Finance
-2003,2,US,The California State University,Department of Information Management
-2003,2,US,The California State University,Department of Foreign Languages and Literatures
-2003,2,US,The California State University,Department of Finance
+2003,2,US,The California State University (CSU),Department of Political Science
+2003,2,US,The California State University (CSU),Department of Finance
+2003,2,US,The California State University (CSU),Department of Information Management
+2003,2,US,The California State University (CSU),Department of Foreign Languages and Literatures
+2003,2,US,The California State University (CSU),Department of Finance
 2003,2,US,University of North Carolina,Department of Economics
 2003,2,Australia,Deakin University,Department of Japanese Language and Literature
 2003,2,Australia,Deakin University,Department of Business Administration
@@ -4103,12 +4103,12 @@ school_year,num_of_sems,country,university,department
 2003,2,Austria,Johannes Kepler University of Linz,Department of Foreign Languages and Literatures
 2003,2,Singapore,Nanyang Technological University,Department of Agricultural Economics
 2003,2,Germany,Free University of Berlin,Department of History
-2003,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+2003,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 2003,2,Hong Kong,The Chinese University of Hong Kong,Department of Life Science
 2003,2,Hong Kong,The Chinese University of Hong Kong,Department of Library and Information Science
 2003,2,Australia,Macquarie University,Department of Finance
-2003,2,Ireland,Trinity College Dublin,Department of International Business
-2003,2,Ireland,Trinity College Dublin,Department of Finance
+2003,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of International Business
+2003,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Finance
 2003,2,Japan,Soka University,Department of Japanese Language and Literature
 2003,2,US,University of Georgia,Department of Life Science
 2003,2,Netherlands,Tilburg University,Department of Law
@@ -4135,7 +4135,7 @@ school_year,num_of_sems,country,university,department
 2003,2,Japan,Tokyo Gakugei University,Department of Business Administration
 2003,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
 2003,2,Japan,Soka University,Department of Japanese Language and Literature
-2003,2,US,University of Hawai‘i at Mānoa,Department of Accounting
+2003,2,US,University of Hawai‘i at Mānoa (UHM),Department of Accounting
 2003,2,US,The University of Oklahoma,Department of Foreign Languages and Literatures
 2003,2,US,The University of Oklahoma,Department of Electrical Engineering
 2002,2,Japan,Kyushu University,Department of Foreign Languages and Literatures
@@ -4145,9 +4145,9 @@ school_year,num_of_sems,country,university,department
 2002,2,US,University of California,Department of Economics
 2002,2,US,University of California,Department of Foreign Languages and Literatures
 2002,2,US,University of California,Department of Foreign Languages and Literatures
-2002,2,US,The California State University,Department of Life Science
-2002,2,US,The California State University,Department of Foreign Languages and Literatures
-2002,2,US,The California State University,Department of Foreign Languages and Literatures
+2002,2,US,The California State University (CSU),Department of Life Science
+2002,2,US,The California State University (CSU),Department of Foreign Languages and Literatures
+2002,2,US,The California State University (CSU),Department of Foreign Languages and Literatures
 2002,2,Australia,Deakin University,Department of Chinese Literature
 2002,2,Canada,University of Toronto,Department of Life Science
 2002,2,Canada,University of Toronto,Department of Foreign Languages and Literatures
@@ -4161,11 +4161,11 @@ school_year,num_of_sems,country,university,department
 2002,2,Japan,Tokyo University of Foreign Studies,Department of Japanese Language and Literature
 2002,2,Germany,Free University of Berlin,Department of Political Science
 2002,2,Germany,Free University of Berlin,Department of Foreign Languages and Literatures
-2002,2,Canada,University of British Columbia,Department of International Business
-2002,2,Canada,University of British Columbia,Department of Business Administration
+2002,2,Canada,The University of British Columbia (UBC),Department of International Business
+2002,2,Canada,The University of British Columbia (UBC),Department of Business Administration
 2002,2,Hong Kong,The Chinese University of Hong Kong,Department of Finance
 2002,2,Denmark,University of Copenhagen,Department of International Business
-2002,2,Ireland,Trinity College Dublin,Department of International Business
+2002,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of International Business
 2002,2,Japan,Soka University,Department of Japanese Language and Literature
 2002,2,US,University of Georgia,Department of Finance
 2002,2,US,University of Georgia,Department of Drama and Theatre
@@ -4215,8 +4215,8 @@ school_year,num_of_sems,country,university,department
 2001,2,Japan,Tokyo University of Foreign Studies,Department of Foreign Languages and Literatures
 2001,2,Japan,Tokyo University of Foreign Studies,Department of Japanese Language and Literature
 2001,2,Austria,Johannes Kepler University of Linz,Department of Foreign Languages and Literatures
-2001,2,Canada,University of British Columbia,Department of Business Administration
-2001,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+2001,2,Canada,The University of British Columbia (UBC),Department of Business Administration
+2001,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 2001,2,Hong Kong,The Chinese University of Hong Kong,Department of Foreign Languages and Literatures
 2001,2,Hong Kong,The Chinese University of Hong Kong,Department of Anthropology
 2001,2,Denmark,University of Copenhagen,Department of Sociology
@@ -4224,8 +4224,8 @@ school_year,num_of_sems,country,university,department
 2001,1,Australia,Macquarie University,Department of Life Science
 2001,1,Australia,Macquarie University,Department of International Business
 2001,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
-2001,2,Ireland,Trinity College Dublin,Department of Foreign Languages and Literatures
-2001,2,Ireland,Trinity College Dublin,Department of Sociology
+2001,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Foreign Languages and Literatures
+2001,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Sociology
 2001,2,Japan,Soka University,Department of Japanese Language and Literature
 2001,2,Japan,Soka University,Department of Forestry and Resource Conservation
 2001,1,Netherlands,Tilburg University,Department of International Business
@@ -4256,10 +4256,10 @@ school_year,num_of_sems,country,university,department
 2000,2,Austria,Johannes Kepler University of Linz,Department of Public Health
 2000,2,Austria,Johannes Kepler University of Linz,Department of Chinese Literature
 2000,2,Canada,York University,Department of Political Science
-2000,2,Canada,University of British Columbia,Department of Business Administration
-2000,2,Canada,University of British Columbia,Department of Economics
-2000,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
-2000,2,Canada,University of British Columbia,Department of Sociology
+2000,2,Canada,The University of British Columbia (UBC),Department of Business Administration
+2000,2,Canada,The University of British Columbia (UBC),Department of Economics
+2000,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
+2000,2,Canada,The University of British Columbia (UBC),Department of Sociology
 2000,2,Denmark,University of Copenhagen,Department of International Business
 2000,2,Denmark,University of Copenhagen,Department of International Business
 2000,1,Australia,Macquarie University,Department of Foreign Languages and Literatures
@@ -4267,9 +4267,9 @@ school_year,num_of_sems,country,university,department
 2000,2,Australia,Macquarie University,Department of International Business
 2000,2,Japan,Ochanomizu University,Department of Sociology
 2000,2,Japan,Ochanomizu University,Department of Japanese Language and Literature
-2000,2,Ireland,Trinity College Dublin,Department of Foreign Languages and Literatures
-2000,1,Ireland,Trinity College Dublin,Department of International Business
-2000,1,Ireland,Trinity College Dublin,Department of Foreign Languages and Literatures
+2000,2,Ireland,"Trinity College Dublin, The University of Dublin",Department of Foreign Languages and Literatures
+2000,1,Ireland,"Trinity College Dublin, The University of Dublin",Department of International Business
+2000,1,Ireland,"Trinity College Dublin, The University of Dublin",Department of Foreign Languages and Literatures
 2000,2,Japan,Soka University,Department of Foreign Languages and Literatures
 2000,2,Japan,Soka University,Department of Japanese Language and Literature
 2000,2,Netherlands,Tilburg University,Department of International Business
@@ -4286,7 +4286,7 @@ school_year,num_of_sems,country,university,department
 2000,2,Finland,University of Helsinki,Department of Sociology
 2000,2,Australia,The University of Melbourne,Department of Sociology
 2000,2,Australia,The University of Melbourne,Department of Philosophy
-2000,2,Canada,University of British Columbia,Department of Life Science
+2000,2,Canada,The University of British Columbia (UBC),Department of Life Science
 2000,2,US,Concordia University,Department of Political Science
 1999,2,Canada,McMaster University,Department of Medicine
 1999,2,Canada,University of Toronto,Department of Foreign Languages and Literatures
@@ -4296,11 +4296,11 @@ school_year,num_of_sems,country,university,department
 1999,2,Austria,Johannes Kepler University of Linz,Department of Mechanical Engineering
 1999,2,Austria,Johannes Kepler University of Linz,Department of Mechanical Engineering
 1999,2,Austria,Johannes Kepler University of Linz,Department of Law
-1999,2,Canada,University of British Columbia,Department of Finance
-1999,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
-1999,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
-1999,2,Canada,University of British Columbia,Department of Political Science
-1999,2,Canada,University of British Columbia,Department of Life Science
+1999,2,Canada,The University of British Columbia (UBC),Department of Finance
+1999,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
+1999,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
+1999,2,Canada,The University of British Columbia (UBC),Department of Political Science
+1999,2,Canada,The University of British Columbia (UBC),Department of Life Science
 1999,2,US,Columbia University,Department of Physics
 1999,2,Japan,Soka University,Department of Foreign Languages and Literatures
 1999,2,Japan,Soka University,Department of Political Science
@@ -4318,25 +4318,25 @@ school_year,num_of_sems,country,university,department
 1999,1,Australia,The University of Melbourne,Department of International Business
 1998,2,Canada,University of Toronto,Department of International Business
 1998,2,Austria,Johannes Kepler University of Linz,Department of Psychology
-1998,2,Canada,University of British Columbia,Department of Economics
-1998,2,Canada,University of British Columbia,Department of Psychology
-1998,2,Canada,University of British Columbia,Department of Atmospheric Sciences
-1998,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
-1998,2,Canada,University of British Columbia,Department of Electrical Engineering
+1998,2,Canada,The University of British Columbia (UBC),Department of Economics
+1998,2,Canada,The University of British Columbia (UBC),Department of Psychology
+1998,2,Canada,The University of British Columbia (UBC),Department of Atmospheric Sciences
+1998,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
+1998,2,Canada,The University of British Columbia (UBC),Department of Electrical Engineering
 1998,2,Canada,McMaster University,Department of Economics
 1998,2,Canada,University of Victoria,Department of Foreign Languages and Literatures
 1998,2,Canada,University of Victoria,Department of Business Administration
 1998,1,Australia,The University of Melbourne,Department of Finance
 1998,2,Australia,The University of Melbourne,Department of Political Science
 1998,2,Australia,The Australian National University,Department of Political Science
-1998,2,Canada,University of British Columbia,Department of Life Science
+1998,2,Canada,The University of British Columbia (UBC),Department of Life Science
 1997,2,Canada,University of Toronto,Department of Dentistry
 1997,2,Canada,Western University,Department of Civil Engineering
 1997,2,Austria,Johannes Kepler University of Linz,Department of Political Science
-1997,2,Canada,University of British Columbia,Department of Electrical Engineering
-1997,2,Canada,University of British Columbia,Department of Mechanical Engineering
-1997,2,Canada,University of British Columbia,Department of Sociology
-1997,2,Canada,University of British Columbia,Department of Foreign Languages and Literatures
+1997,2,Canada,The University of British Columbia (UBC),Department of Electrical Engineering
+1997,2,Canada,The University of British Columbia (UBC),Department of Mechanical Engineering
+1997,2,Canada,The University of British Columbia (UBC),Department of Sociology
+1997,2,Canada,The University of British Columbia (UBC),Department of Foreign Languages and Literatures
 1997,2,Canada,University of Waterloo,Department of Foreign Languages and Literatures
 1997,2,Canada,Université de Montréal,Department of Political Science
 1997,2,Australia,The University of Melbourne,Department of History
