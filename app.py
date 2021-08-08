@@ -104,46 +104,6 @@ app.layout = html.Div(
                         ),
                     ]
                 ),
-                # html.Div(
-                #     className="pane pane-table",
-                #     children=dash_table.DataTable(
-                #                             id="table_school",
-                #                             page_size=400,
-                #                             columns=[
-                #                                 {'id': 'university', 'name': 'Top Destination Universities'},
-                #                                 {'id': 'count', 'name': 'Count'},
-                #                             ],
-                #                             style_header={
-                #                                 'textAlign': 'center',
-                #                                 'fontWeight': 'bold',
-                #                             },
-                #                             style_cell={
-                #                                 'textAlign': 'center',
-                #                                 'fontFamily': 'Verdana',
-                #                                 'paddingRight': '0.5rem',
-                #                             },
-                #                             style_cell_conditional=[{
-                #                                 'if': {'column_id': 'count'},
-                #                                 'textAlign': 'right'
-                #                             }],
-                #                             style_data={
-                #                                 'whiteSpace': 'normal',
-                #                                 'height': 'auto',
-                #                             },
-                #                             style_data_conditional=[{
-                #                                 "if": {"state": "selected"},
-                #                                 "backgroundColor": "inherit !important",
-                #                                 "border": "inherit !important",
-                #                             }],
-                #                             style_table={
-                #                                 'padding-top': '.4rem',
-                #                                 'padding-left': '0rem',
-                #                                 'padding-right': '.4rem',
-                #                                 'height': '250',
-                #                                 'width': '600',
-                #                             }
-                #                         ),
-                # ),
                 html.Div(
                     className="pane",
                     children=dcc.Graph(
