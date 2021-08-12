@@ -90,7 +90,7 @@ app.layout = html.Div(
                             className="stats-card",
                             children=[
                                 html.H2(id='num_countries'),
-                                html.P("Top Destination Countries")
+                                html.P("Destination Countries")
                             ]
                         ),
                         html.Div(

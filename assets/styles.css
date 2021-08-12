@@ -70,6 +70,7 @@ footer {
   justify-content: center;
   gap: 1rem 1rem;
   grid-template-columns: 1fr 1fr; /* 2 columns */
+  word-break: normal;
 }
 
 /* slider color formatting */
