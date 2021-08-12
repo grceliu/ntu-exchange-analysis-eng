@@ -45,6 +45,7 @@ footer {
   width: var(--pane-width);
   padding: 10px;
   justify-content: center;
+  word-break: break-all;
 }
 
 .pane-grid {

@@ -1,7 +1,5 @@
-from dash_html_components.A import A
 import pandas as pd
 import plotly.express as px  # (version 4.7.0)
-import plotly.graph_objs as go
 import dash  # (version 1.12.0) pip install dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -51,7 +49,7 @@ app.layout = html.Div(
                                 min=years[-1],
                                 max=years[0],
                                 step=1,
-                                marks={str(year): str(year) for year in years if year%2==0},
+                                marks={str(year): str(year) for year in years if year%5==0},
                                 value=[years[-1], years[0]]
                                 )
             ],
@@ -154,7 +152,7 @@ app.layout = html.Div(
                     ]
                 ),
                 html.Span(
-                    "    | © 2021 Grace Liu",
+                    "  | © 2021 Grace Liu",
                 ),
             ]
         )
@@ -169,7 +167,6 @@ app.layout = html.Div(
      Output(component_id='hist_year', component_property='figure'),
      Output(component_id='hist_country', component_property='figure'),
      Output(component_id='hist_school', component_property='figure'),
-     # Output(component_id='table_school', component_property='data'),
      ],
     [Input(component_id='slct_year', component_property='value'),
      Input(component_id='slct_department', component_property='value')]
