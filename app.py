@@ -75,29 +75,29 @@ app.layout = html.Div(
                         html.Div(
                             className="stats-card",
                             children=[
-                                html.H2(id='num_students'),
-                                html.P("attended exchange")
+                                html.P(className="stats-card-value", id='num_students'),
+                                html.P(className="stats-card-word", children="attended exchange")
                             ]
                         ),
                         html.Div(
                             className="stats-card",
                             children=[
-                                html.H2(id='one_sem_pct'),
-                                html.P("% attended 1-semester program")
+                                html.P(className="stats-card-value", id='one_sem_pct'),
+                                html.P(className="stats-card-word", children="% abroad 1 semester")
                             ]
                         ),
                         html.Div(
                             className="stats-card",
                             children=[
-                                html.H2(id='num_countries'),
-                                html.P("Destination Countries")
+                                html.P(className="stats-card-value", id='num_countries'),
+                                html.P(className="stats-card-word", children="destination countries")
                             ]
                         ),
                         html.Div(
                             className="stats-card",
                             children=[
-                                html.H2(id='num_schools'),
-                                html.P("Destination Universities")
+                                html.P(className="stats-card-value", id='num_schools'),
+                                html.P(className="stats-card-word", children="destination universities")
                             ]
                         ),
                     ]

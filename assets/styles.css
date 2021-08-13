@@ -14,11 +14,6 @@ body{
   font-family: Verdana ;
 }
 
-p {
-  font-size: 1rem;
-  text-align: center;
-}
-
 footer {
   margin: 0 auto;
   text-align: center;
@@ -43,9 +38,7 @@ footer {
 .pane{
   height: var(--pane-height);
   width: var(--pane-width);
-  padding: 10px;
   justify-content: center;
-  word-break: break-all;
 }
 
 .pane-grid {
@@ -53,6 +46,7 @@ footer {
     justify-content: center;
     gap: 2rem 2rem;
     grid-template-columns: repeat(auto-fill, var(--pane-width));
+    padding-top: 0.8rem;
 }
 
 .stats-card {
@@ -62,7 +56,17 @@ footer {
   background-color: #f9f9f9;
   box-shadow: 2px 2px 2px lightgrey;
   text-align: center;
-  font-size: 1.2rem;
+  /* font-size: 1.2rem; */
+}
+
+.stats-card-value {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.stats-card-word {
+  font-size: 1rem;
 }
 
 .stats-grid {
@@ -70,7 +74,6 @@ footer {
   justify-content: center;
   gap: 1rem 1rem;
   grid-template-columns: 1fr 1fr; /* 2 columns */
-  word-break: normal;
 }
 
 /* slider color formatting */
