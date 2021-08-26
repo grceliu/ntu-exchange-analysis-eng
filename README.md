@@ -17,7 +17,7 @@ Click [here](https://ntu-exchange-analysis-eng.herokuapp.com) to view the app. N
 - Main dataset is from [Office of International Affairs, NTU](https://oia.ntu.edu.tw/students/outgoing.students.experience.do/).
 - Department names Mandarin to English: https://www.aca.ntu.edu.tw/curri/curs_deptabb.asp
 - Country names Mandarin to English: https://www.mofa.gov.tw/News_Content.aspx?n=491&s=85015
-- University names Mandarin to English: https://oia.ntu.edu.tw/outgoing/school.list (click "申請資料" to view teh English name for each school)
+- University names Mandarin to English: https://oia.ntu.edu.tw/outgoing/school.list (click "申請資料" to view the English name for each school)
 
 ## Running the app
 
@@ -33,7 +33,7 @@ source venv/bin/activate
 
 ```
 
-Clone the git repo, then install the requirements with pip
+Clone the git repo, then install the requirements with pip.
 
 ```
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ```
 
-Run the app
+Run the app.
 
 ```
 
