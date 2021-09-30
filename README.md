@@ -1,12 +1,12 @@
 # NTU Excahnge Analysis
-[![screenshot](screenshot/app.png)](https://ntu-exchange-analysis-eng.herokuapp.com/)
+[![screenshot](screenshot/app.png)](http://ec2-13-52-247-219.us-west-1.compute.amazonaws.com:8888)
 
 This is a [Dash](https://plotly.com/dash/) app visualizing the statisitcs of outbound exchange program at [National Taiwan University (NTU)](https://www.ntu.edu.tw/index.html).
 
 The app answers questions like which countries students go to exchange, which universities students attended exchange, and how many students participated in exchange each year. The app allows users to select time range and department that they are interested in.
 
 ## Access the app
-Click [here](https://ntu-exchange-analysis-eng.herokuapp.com) to view the app. Note that this is the English version. Click [here](https://ntu-exchange-analysis.herokuapp.com) for the Mandarin version.
+Click [here](http://ec2-13-52-247-219.us-west-1.compute.amazonaws.com:8888) to view the app. Note that this is the English version. Click [here](https://ntu-exchange-analysis.herokuapp.com) for the Mandarin version.
 
 ## Technologies
 - [Dash](https://plotly.com/dash/) - Main server and interactive components
