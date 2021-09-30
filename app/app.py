@@ -219,4 +219,4 @@ def update_graph(slct_year, slct_department):
     return one_sem_pct, num_students, num_countries, num_schools, fig_year, fig_country, fig_school#, school_df
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(host='0.0.0.0', port=8050, debug=False)
